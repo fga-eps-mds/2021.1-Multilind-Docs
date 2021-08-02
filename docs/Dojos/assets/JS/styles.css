@@ -1,0 +1,14 @@
+*{
+    background-color: black;
+}
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: darkgray;
+    display: inline-flex;
+    margin: 5px;
+}
+.text{
+    font-size: 50px;
+    color: white;
+}

@@ -157,5 +157,8 @@ O mais interessante na utilização de arrays se encontra na quantidade de funç
 #### length
 Retorna o tamamnho do array.
 
-[Java Script Array Methods](https://www.javatpoint.com/javascript-array)
-
+[Java Script Array Methods](https://www.javatpoint.com/javascript-array)<br/>
+Arquivos utilizados no Dojo:
+- [index.html](./assets/JS/index.html)
+- [scripts.js](./assets/JS/scripts.js)
+- [styles.css](./assets/JS/styles.css)
