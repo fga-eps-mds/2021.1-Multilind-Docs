@@ -4,7 +4,11 @@
 **Data da Reunião: 07/08/2021**
 
 ## Issues Entregues
+| PR | Issue | Pontuação | Participantes |
+|--------|-------|-----------|---------------|
+| [**#11**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/11) | [**#2**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/2) - Treinamento Javascript | Sem | Todos |
 
+Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](../../Dojos/dojos.md).
 
 ## Issues Não Entregues
 
