@@ -1,7 +1,12 @@
 # Dojos
 Foram realizados alguns treinamentos sobre tecnologias, linguagens de programação, técnicas e metodologias de software na primeira semana pós definição dos grupos e escolha do tema. Os treinamentos foram realizados entre os dias 27/07 e 30/07.
 
-## Dia 28/07 - JavaScript
+
+| Data | Treinamento | Responsável | Participantes |
+|:----:|:------:|:---------:|:---------:|
+| 28/07/2021 | JavaScript | Pedro Igor| Grupos EPS e MDS |
+ 
+## JavaScript
 Javascript é uma linguagem de programação de alto nível com sintaxe baseada no Java que por sua vez é baseada do C. A linguagem C  é uma linguagem de baixo nível, isto é, é mais próxima do entendimento da máquina. Já o JavaScript facilita bastante o programador implementando diversas funções úteis, característica de uma linguagem de alto nível.
 
 ## Sintaxe
