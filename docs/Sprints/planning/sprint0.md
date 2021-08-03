@@ -15,6 +15,8 @@
 | [**#6**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/6) | Criar Pull Request Template | Sem | Pedro Igor |
 | [**#7**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/7) | Criar Issue Template | Sem | Sofia Patrocínio |
 | [**#9**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/9) | Configurações Iniciais Sprint 0 | Sem | Micaella Gouveia |
+| [**#13**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/13) | Documentar Metodologias e Ferramentas | Sem | Micaella Gouveia |
+
 
 ## Pontuação : Sem pontuação
 
