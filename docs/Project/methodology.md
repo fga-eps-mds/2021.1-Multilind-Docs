@@ -21,7 +21,7 @@ Para este projeto, decidimos utilizar diferentes metodologias de forma híbrida,
 * **Daily Meeting**: A Daily é feita através de um grupo no Telegram em que um bot nos notifica de segunda a sábado às 22h. Ela tem como objetivo disseminar conhecimento sobre o que foi feito no dia anterior, identificar impedimentos e priorizar o trabalho a ser realizado no dia que se inicia.
 * **Sprint Review**: Durante a reunião semanal, o time debate sobre o desenvolvimento da Sprint, verificando  tudo o que foi feito e entregue.
 * **Sprint Retrospective**: Também é realizada durante a reunião semanal e seu objetivo é fazer uma análise de como foi a Sprint, o que funcionou bem, o que pode ser melhorado e que ações serão tomadas para melhorar.
-*  **Product Backlog**: Um conjunto de funcionalidades pensadas e desejadas para o produto. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários . 
+*  **Product Backlog**: Um conjunto de funcionalidades pensadas e desejadas para o produto. Com o tempo, o Product Backlog cresce e muda à medida que se aprende mais sobre o produto e seus usuários. 
 *  **Histórias de usuário**: Uma forma de definir e organizar os requisitos do sistema, centrando a visão no usuário. 
 * **Backlog de Melhoria**: Onde estarão todas as atividades, features e artefatos que deverão ser evoluídos e/ou modificados.
 *  **Controle de Versão**: O controle de versão é feito com relação à documentação na Wiki e ao código no Github. De forma objetiva, os artefatos são evoluídos constantemente e para manter o rastro disso, é feito o controle de versão.
@@ -30,15 +30,15 @@ Para este projeto, decidimos utilizar diferentes metodologias de forma híbrida,
 
 ## XP
 
-*  **Pair-Programming**: É eficaz para reduzir a incidência de bugs em um sistema e consiste em uma forma de trocar conhecimento, alinhar o grupo, tirar dúvidas e desenvolver algo em conjunto. É o momento em que os pares se juntam para que um desenvolva (piloto) e o outro axilie (co-piloto) por um curto período até que o papel rotacione.
+*  **Pair-Programming**: É eficaz para reduzir a incidência de bugs em um sistema e consiste em uma forma de trocar conhecimento, alinhar o grupo, tirar dúvidas e desenvolver algo em conjunto. É o momento em que os pares se juntam para que um desenvolva (piloto) e o outro auxilie (co-piloto) por um curto período até que o papel rotacione.
 *  **Refatoring**: É processo de refatoração de código com o intuito de melhorar a sua estrutura, tornando-o mais claro, limpo e de fácil compreensão sem que haja grandes alterações no que o sistema faz. 
-* **Collective Ownership**: Encorajamento de todos os membros a contribuírem em todos os seguimentos do projeto. Consiste em revezamento de pares, total autorizaçao para edição de código por qualquer membro. Isso torna o código coletivo e responsabilizado por todos os envolvidos. 
+* **Collective Ownership**: Encorajamento de todos os membros a contribuírem em todos os seguimentos do projeto. Consiste em revezamento de pares, total autorização para edição de código por qualquer membro. Isso torna o código coletivo e responsabilizado por todos os envolvidos. 
 
 ## KanBan
 * **ZenHub**: ZenHub é um produto beta que nos permite desenvolver mais rápido, comunicar melhor e lançar sem sobrecarga, integrando tudo dentro do GitHub, o lugar em que todo o nosso código reside.
 
 ## Outros
-*  **Code Reviews**: A revisão de código é feita pelos membros não participantes da issue entregue. A segunda parte é feita na reunião da Sprint onde o time avalia e repassa os conhecimento adquiridos, as dificuldades enfrentadas e então o que deve ser melhorado vem à tona.
+*  **Code Reviews**: A revisão de código é feita pelos membros não participantes da issue entregue. A segunda parte é feita na reunião da Sprint onde o time avalia e repassa os conhecimentos adquiridos, as dificuldades enfrentadas e então o que deve ser melhorado vem à tona.
 
 # Ferramentas
 * **GitHub**: Utilizado para armazenamento de documentos e código, versionamento e gerência e comunicação das issues.
