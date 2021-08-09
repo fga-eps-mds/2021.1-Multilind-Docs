@@ -71,6 +71,9 @@ O objetivo do Health Check é uma ferramenta para analisar o panorama geral da s
 
 O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimento da equipe e ele deve ser modificado toda Sprint para que seja possível ver o progresso do time.
 
+## Cumulative Flow
+O Cumulative Flow é um gráfico que mostra como está o andamento das issues ao longo dos dias. Por exemplo, é possível avaliar em qual época da sprint mais issues estão em progresso, ou quando em que época o time costuma finalizar mais issues. A partir disso é possível tomar decisões para que a entrega contínua melhore.
+
 ## Referências
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/>. Último acesso em 31/07/2021.
 * Desenvolvimento Ágil Srum: <http://www.desenvolvimentoagil.com.br/scrum/>. Último acesso em 31/07/2021.

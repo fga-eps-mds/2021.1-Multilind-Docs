@@ -9,7 +9,7 @@ Foram realizados alguns treinamentos sobre tecnologias, linguagens de programaç
 
 ## Git
 
-Para realização do treinamento sobre Git foi utillizado a seguinte apresentação.
+Para realização do treinamento sobre Git foi utilizado a seguinte apresentação.
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSo22slW8zalOKSaWuC49JHz9k2XsaTG-HIEnJLBQg6vfGOLU3Rt5WLfFQEHg4xd2rf9Zenf3vYPgeV/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
