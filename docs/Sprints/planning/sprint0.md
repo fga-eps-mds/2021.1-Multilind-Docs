@@ -38,7 +38,7 @@ _Nesta Sprint não foi feita a pontuação das issues._
 
 | Treinamento | Resposável | Data Realização |
 |-------------|------------|-----------------|
-| Html/Css | Gabriel Alves | 27/07/2021 |
+| Html/Css | Gabriel Davi | 27/07/2021 |
 | Javascript | Pedro Igor | 28/07/2021 |
 | Git | Sofia Patrocínio| 29/07/2021 |
 | Scrum | Micaella | 30/07/2021 |
