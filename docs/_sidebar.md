@@ -7,4 +7,6 @@
     * [JavaScript](Dojos/javascript.md)
     * [Git](Dojos/git.md)
     * [Scrum](Dojos/scrum.md)
+  * Lean Inception
+    * [Dia 2](LeanInception/dia2.md) 
     
