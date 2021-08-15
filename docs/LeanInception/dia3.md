@@ -1,6 +1,6 @@
 # Dia 3 - Lean Inception 
 
-Lean Inception é o nome dado ao workshop colaborativo para alinhar um grupo de pessoas sobre o produto mínimo viável a ser construído. Ele é feito durante uma semana, em quatro dias, contendo diversas atividades relacionadas ao produto. O segundo dia é voltado para os usuários da aplicação.
+Lean Inception é o nome dado ao workshop colaborativo para alinhar um grupo de pessoas sobre o produto mínimo viável a ser construído. Ele é feito durante uma semana, em quatro dias, contendo diversas atividades relacionadas ao produto. O terceiro dia é voltado para as funcionalidades da aplicação.
 
 ## Participantes
 **Data da Reunião: 13/08/2021**
@@ -32,7 +32,7 @@ Primeiro avaliamos a funcionalidade em relação ao nível de confiança utiliza
 
 ![grafico](../../img/lean/dia3/grafico-semaforo.png)
 
-Classificamos cada funcionalidade combinando o nível de confiança técnico (como fazer) e o nível de confiança de UX e do negócio (o que fazer). Dessa maneira, cada funcionalidade recebeu uma cor relativa ao nível de confiança. Funcionalidades que ficaram na parte inferior esquerda do gráfico (marcada com um “X”) foram descartas ou gastamos mais tempo para esclarecê-la.
+Classificamos cada funcionalidade combinando o nível de confiança técnico (como fazer) e o nível de confiança de UX e do negócio (o que fazer). Dessa maneira, cada funcionalidade recebeu uma cor relativa ao nível de confiança. Funcionalidades que ficaram na parte inferior esquerda do gráfico (marcada com um “X”) foram descartadas ou gastamos mais tempo para esclarecê-la.
 
 Já para esforço, valor de negócio e valor de UX, avaliamos e classificamos as funcionalidades com marcações em uma escala de um a três.
 
