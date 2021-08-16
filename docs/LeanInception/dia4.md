@@ -18,14 +18,13 @@ Foram realizadas duas atividades: **Canvas MVP** e **Sequenciador**.
 
 ## Canvas MVP
 Para construir o Canvas MVP (Minimum Viable Product) foram criadas jornadas de usuário, uma pra cada persona, com o objetivo de identificar as funcionalidades essenciais para cada persona. Após selecionar as funcionalidades de cada Canvas foi então realizada um levantamento de custo para aquele MVP além de resultados esperados e métricas que seriam utilizadas para avaliação dos resultados.
-
+A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 ### Canvas MVP 1
 #### Proposta
 Validar se é possível descobrir as línguas indígenas do local da viagem realizada.
 #### Persona
 Helena, estudante de pós graduação em psicologia que viajará para uma região de comunidades indígenas.
 #### Jornada
-A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 | Jornada | Funcionalidade | MVP |
 | ------- | -------------- | --- |
 | Helena recebe proposta de viagem para o MT a trabalho | X | X |
@@ -68,7 +67,6 @@ Conhecer e fazer intercâmbio com um novo povo e apresentar a seus alunos.
 #### Persona
 Kauã, Professor Indígena do povo Guarani.
 #### Jornada
-A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 | Jornada | Funcionalidade | MVP |
 | ------- | -------------- | --- |
 | Kauã pretende representar seu povo no Encontro Nacional de Professores Indígenas | X | X |
@@ -110,17 +108,16 @@ A numeração das funcionalidades foi baseada nas funcionalides descritas no [Te
 ![mvp2](../img/lean/dia4/mvp2.png)
 
 ### Canvas MVP 3
-#### Proposta
+## Proposta
 Publicar informações produzidas no aplicativo.
-#### Persona
+## Persona
 Flávia, linguista, professora e pesquisadora especializada em línguas indígenas.
 #### Jornada
-A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 | Jornada | Funcionalidade | MVP |
-| ------- | -------------- | --- |
+|---------|----------------|-----|
 | Flávia está de viagem em uma comunidade conhecida | X | X |
-| Ela recebe a proposta da comunidade em produzir um material para ser publicado no aplicativo | X | X | 
-| Ela faz essa produção sobre a língua nativa do povo | X | X | 
+| Ela recebe a proposta da comunidade em produzir um material para ser publicado no aplicativo | X | X |
+| Ela faz essa produção sobre a língua nativa do povo | X | X |
 | Leva esse material para a rede de linguistas que ela faz parte | X | X | 
 | Esse material será validado pela rede de linguistas | X | X | 
 | Ele também será validado pela própria comunidade | X | X | 
