@@ -6,21 +6,22 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| | [**#23**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/23) | Lean 1 | Sem | Todos |
-| | [**#24**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/24) | Lean 2 | Sem | Todos |
-| | [**#25**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/25) | Lean 3 | Sem | Todos |
-| | [**#26**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Lean 4 | Sem | Todos |
-| | [**#27**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Dojo de Node | Sem | Todos |
-| | [**#28**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Dojo de React | Sem | Todos |
+| [**#37**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/37)| [**#24**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/24) | Lean 2 | Sem | Todos |
+| [**#36**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/36)| [**#25**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/25) | Lean 3 | Sem | Todos |
 
 
 Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](../../Dojos/dojos.md).
 
 ## Issues Não Entregues
-*Nenhuma*
+| PR | Issue | Descrição | Pontuação | Participantes |
+|----|-------|-----------|-----------|---------------|
+| - | [**#23**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/23) | Lean 1 | Sem | Todos |
+| [**#38**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/38) | [**#26**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Lean 4 | Sem | Todos |
+| - | [**#27**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Dojo de Node | Sem | Todos |
+| - | [**#28**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/26) | Dojo de React | Sem | Todos |
 
 ## Dívidas Técnicas
-*Nenhuma*
+*Sem pontuação*
 
 ## Quadro de Conhecimento
 ![quadro1](../../img/quadroConhecimento/quadro1.png)
@@ -35,7 +36,7 @@ Para as issues de treinamento foi criado um documento que especifica todo o cont
 ![health1](../../img/healthCheck/health1.png)
 
 ## Cumulative Flow
-![cumulative0](../../img/cumulativeFlow/cumulative0.png)
+![cumulative1](../../img/cumulativeFlow/cumulative1.png)
 
 ## Retrospectiva
 
