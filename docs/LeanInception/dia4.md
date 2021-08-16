@@ -108,9 +108,9 @@ Kauã, Professor Indígena do povo Guarani.
 ![mvp2](../img/lean/dia4/mvp2.png)
 
 ### Canvas MVP 3
-## Proposta
+#### Proposta
 Publicar informações produzidas no aplicativo.
-## Persona
+#### Persona
 Flávia, linguista, professora e pesquisadora especializada em línguas indígenas.
 #### Jornada
 | Jornada | Funcionalidade | MVP |
