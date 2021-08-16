@@ -68,6 +68,7 @@ Conhecer e fazer intercâmbio com um novo povo e apresentar a seus alunos.
 #### Persona
 Kauã, Professor Indígena do povo Guarani.
 #### Jornada
+A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 | Jornada | Funcionalidade | MVP |
 | ------- | -------------- | --- |
 | Kauã pretende representar seu povo no Encontro Nacional de Professores Indígenas | X | X |
@@ -114,6 +115,7 @@ Publicar informações produzidas no aplicativo.
 #### Persona
 Flávia, linguista, professora e pesquisadora especializada em línguas indígenas.
 #### Jornada
+A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md).
 | Jornada | Funcionalidade | MVP |
 | ------- | -------------- | --- |
 | Flávia está de viagem em uma comunidade conhecida | X | X |
@@ -149,6 +151,11 @@ Flávia, linguista, professora e pesquisadora especializada em línguas indígen
 - Consulta ao banco de dados ou utilização do aplicativo
 
 ![mvp3](../img/lean/dia4/mvp3.png)
+
+
+## Sequenciador
+A partir dos mvps produzidos e suas respectivas funcionalides foi criado um sequenciador com o objetivo de listar funcionalidades que deveriam estar presentes nas primeiras versões da aplicação. A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md). A cor de cada um dos post-its fazem referência ao Canvas MVP correspondente.
+![sequenciador](../img/lean/dia4/sequenciador.png)
 
 ## Referências
 * MURAL. Disponível em: [https://www.mural.co](https://www.mural.co). Último acesso em 14/08/2021.
