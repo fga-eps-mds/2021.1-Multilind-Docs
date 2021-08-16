@@ -10,7 +10,7 @@
 | [**#36**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/36)| [**#25**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/25) | Lean 3 | Sem | Todos |
 
 
-Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](../../Dojos/dojos.md).
+Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](Index/dojosIndex.md).
 
 ## Issues Não Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
