@@ -8,5 +8,6 @@
     * [Git](Dojos/git.md)
     * [Scrum](Dojos/scrum.md)
   * Lean Inception
-    * [Dia 2](LeanInception/dia2.md) 
+    * [Dia 2](LeanInception/dia2.md)
+    * [Dia 4](LeanInception/dia4.md) 
     
