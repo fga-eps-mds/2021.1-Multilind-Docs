@@ -23,9 +23,9 @@ Para efetivamente identificar as funcionalidades de um produto, é importante te
 Foram criadas três personas, cada uma representando um conjunto de possíveis usuários da aplicação. A primeira persona representa uma pessoa interessada no conteúdo do aplicativo, a segunda representa um indígena que utilizará o aplicativo, e a terceira representa uma professora que publicará informações no aplicativo.
 
 ### **Resultados**
-![p1](../../img/lean/dia2/persona1.png)
-![p2](../../img/lean/dia2/persona2.png)
-![p3](../../img/lean/dia2/persona3.png)
+![p1](../img/lean/dia2/persona1.png)
+![p2](../img/lean/dia2/persona2.png)
+![p3](../img/lean/dia2/persona3.png)
 
 ## Jornadas de Usuário
 A jornada descreve o percurso de um usuário por uma sequência de passos para alcançar um objetivo. Alguns desses passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.
@@ -33,9 +33,9 @@ A jornada descreve o percurso de um usuário por uma sequência de passos para a
 Foram criadas três jornadas de usuários, cada uma representada por uma persona criada anteriormente.
 
 ### **Resultados**
-![j1](../../img/lean/dia2/jornada1.png)
-![j2](../../img/lean/dia2/jornada2.png)
-![j3](../../img/lean/dia2/jornada3.png)
+![j1](../img/lean/dia2/jornada1.png)
+![j2](../img/lean/dia2/jornada2.png)
+![j3](../img/lean/dia2/jornada3.png)
 
 ## Referências
 * MURAL. Disponível em: [https://www.mural.co](https://www.mural.co). Último acesso em 14/08/2021.

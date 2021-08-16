@@ -23,20 +23,20 @@ Após termos evoluído no produto, nos objetivos e nas personas, chegou a hora d
 Foram pensadas funcionalidades que respondem as seguintes questões: O que deve ter no produto para atender às necessidades da persona? Quais funcionalidades devemos construir para atingir esse objetivo do produto?
 
 ### **Resultado**
-![brainstorming](../../img/lean/dia3/brainstorming-funcionalidades.png)
+![brainstorming](../img/lean/dia3/brainstorming-funcionalidades.png)
 
 ## Revisão do Técnica, de Negócio e de UX
 A atividade de brainstorming gerou, em pouco tempo, muitas funcionalidades. Mas precisamos gastar mais tempo para detalhá-las. É preciso reavaliá-las, normalizá-las, e, se possível, descartar o que não faz sentido levar a diante. Para evoluir esse entendimento, avaliamos cada funcionalidade em termos de esforço, valor para o negócio, experiência dos usuários e o nível de confiança que temos sobre o que e como construí-la.
 
 Primeiro avaliamos a funcionalidade em relação ao nível de confiança utilizando o **Gráfico do Semáforo**
 
-![grafico](../../img/lean/dia3/grafico-semaforo.png)
+![grafico](../img/lean/dia3/grafico-semaforo.png)
 
 Classificamos cada funcionalidade combinando o nível de confiança técnico (como fazer) e o nível de confiança de UX e do negócio (o que fazer). Dessa maneira, cada funcionalidade recebeu uma cor relativa ao nível de confiança. Funcionalidades que ficaram na parte inferior esquerda do gráfico (marcada com um “X”) foram descartadas ou gastamos mais tempo para esclarecê-la.
 
 Já para esforço, valor de negócio e valor de UX, avaliamos e classificamos as funcionalidades com marcações em uma escala de um a três.
 
-![avalicao](../../img/lean/dia3/avaliacao.png)
+![avalicao](../img/lean/dia3/avaliacao.png)
 
 Classificamos cada funcionalidade de acordo com os critérios:
 
@@ -48,7 +48,7 @@ Classificamos cada funcionalidade de acordo com os critérios:
 
 
 ### **Resultado**
-![revisao](../../img/lean/dia3/revisao.png)
+![revisao](../img/lean/dia3/revisao.png)
 
 ## Referências
 * MURAL. Disponível em: [https://www.mural.co](https://www.mural.co). Último acesso em 14/08/2021.
