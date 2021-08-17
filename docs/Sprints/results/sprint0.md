@@ -16,7 +16,7 @@
 | [**#14**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/14) | [**#13**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/13) | Documentar Metodologias e Ferramentas | Sem | Micaella Gouveia |
 
 
-Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](../../Dojos/dojos.md).
+Para as issues de treinamento foi criado um documento que especifica todo o conteúdo utilizado nos [DOJOS](Index/dojosIndex.md).
 
 ## Issues Não Entregues
 | Número | Issue | Pontuação | Participantes |
