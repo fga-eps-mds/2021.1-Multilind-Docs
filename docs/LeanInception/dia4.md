@@ -1,6 +1,6 @@
 # Dia 4 - Lean Inception 
 
-Lean Inception é o nome dado ao workshop colaborativo para alinhar um grupo de pessoas sobre o produto mínimo viável a ser construído. Ele é feito durante uma semana, em quatro dias, contendo diversas atividades relacionadas ao produto. O segundo dia é voltado para os usuários da aplicação.
+Lean Inception é o nome dado ao workshop colaborativo para alinhar um grupo de pessoas sobre o produto mínimo viável a ser construído. Ele é feito durante uma semana, em quatro dias, contendo diversas atividades relacionadas ao produto. O quarto dia é focado em determinar MVPs que satisfaçam a necessidade de diferentes perfis de usuário.
 
 ## Participantes
 **Data da Reunião: 14/08/2021**
@@ -23,7 +23,7 @@ A numeração das funcionalidades foi baseada nas funcionalides descritas no [Te
 #### Proposta
 Validar se é possível descobrir as línguas indígenas do local da viagem realizada.
 #### Persona
-Helena, estudante de pós graduação em psicologia que viajará para uma região de comunidades indígenas.
+Helena, estudante de pós-graduação em psicologia que viajará para uma região de comunidades indígenas.
 #### Jornada
 | Jornada | Funcionalidade | MVP |
 | ------- | -------------- | --- |
@@ -151,7 +151,7 @@ Flávia, linguista, professora e pesquisadora especializada em línguas indígen
 
 
 ## Sequenciador
-A partir dos mvps produzidos e suas respectivas funcionalides foi criado um sequenciador com o objetivo de listar funcionalidades que deveriam estar presentes nas primeiras versões da aplicação. A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md). A cor de cada um dos post-its fazem referência ao Canvas MVP correspondente.
+A partir dos MVPs produzidos e suas respectivas funcionalidades foi criado um sequenciador com o objetivo de listar funcionalidades que deveriam estar presentes nas primeiras versões da aplicação. A numeração das funcionalidades foi baseada nas funcionalides descritas no [Terceiro dia do Lean](dia3.md). A cor de cada um dos post-its fazem referência ao Canvas MVP correspondente.
 ![sequenciador](../img/lean/dia4/sequenciador.png)
 
 ## Referências
