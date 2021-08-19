@@ -10,7 +10,7 @@ Foram realizados alguns treinamentos sobre tecnologias, linguagens de programaç
 ## React Native
 No mundo do desenvolvimento mobile, diversas tecnologias brigam por espaço para consagrar-se como a melhor ferramenta de desenvolvimento. Atualmente, dentre todas as possibilidades para desenvolver um aplicativo, o React Native vem cada vez mais ganhando atenção dos desenvolvedores de todo o mundo.
  
-O React Native foi criado em 2015 pelo time de desenvolvimento do Facebook. Ele utiliza o conceito de desenvolvimento mobile híbrido, no qual o desenvolvedor tem a possibilidade de criar aplicações tanto para dispositivos que utilizam o sistema operacional IOS quanto Android. Além do mais, o React Native trás com bastante ênfase a ideia de criação de componentes reutilizáveis em projetos. Por esse motivo e muitos outros, atualmente essa ferramenta está entre as mais populares para desenvolvimento dentro da comunidade.
+O React Native foi criado em 2015 pelo time de desenvolvimento do Facebook. Ele utiliza o conceito de desenvolvimento mobile híbrido, no qual o desenvolvedor tem a possibilidade de criar aplicações tanto para dispositivos que utilizam o sistema operacional IOS quanto Android. Além disso, o React Native traz com bastante ênfase a ideia de criação de componentes reutilizáveis em projetos. Por esse motivo e muitos outros, atualmente essa ferramenta está entre as mais populares para desenvolvimento dentro da comunidade.
  
 Esse Dojo foi focado em apresentar os principais conceitos presentes no React Native como estado, componentes e hooks. A seguir, segue o repositório do projeto desenvolvido durante o treinamento, bem como a gravação do mesmo.
 
