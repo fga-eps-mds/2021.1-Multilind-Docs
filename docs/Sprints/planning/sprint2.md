@@ -12,9 +12,10 @@
 | [**#33**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/33) | Ideias de Nome para o aplicativo | 3 | Todos | - |
 | [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/34) | Elicitação de Requisitos e Priorização | 8 | Todos | Pedro Igor |
 | [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Histórias de Usuário | 13 | Todos | Micaella Gouveia |
+| [**#43**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/43) | Protótipo de Baixa Fidelidade | 13 | MDS | MDS |
 
 
-## Pontuação : 37
+## Pontuação : 50
 
 ## Relato
 * Ficou definida uma apresentação de tudo o que foi construído na Lean para nossos POs.
