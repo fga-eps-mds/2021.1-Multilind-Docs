@@ -24,6 +24,12 @@
 | Gabriel Davi e Pedro Igor | DevOps e Arquiteto |
 | Micaella Gouveia e Sofia Patrocínio | Product Manager e Scrum Master |
 
+## Pareamento MDS
+| Integrantes | Atividade |
+|-------------|-----------|
+| Ingrid e Hérick ( + Sofia ) | Protótipo de Média Fidelidade |
+| Carlos Rafael, Isadora e Helder | Protótipo de Média Fidelidade |
+
 
 ## Relato
 * Como a validação do MVP foi adiada para a próxima Sprint, essa Sprint será destinada para definição da arquitetura do projeto.
