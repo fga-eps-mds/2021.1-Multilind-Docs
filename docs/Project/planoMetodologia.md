@@ -4,6 +4,7 @@
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
 | 02/08/2021 | 1.0 | Criação do documento e adição das práticas ágeis, ferramentas e plano de métricas | Grupo EPS |
+| 25/08/2021 | 1.1 |Separação do documento em plano de metodologia, metricas e comunicação | Micaella Gouveia |
 
 # Práticas Ágeis 
 
@@ -39,40 +40,6 @@ Para este projeto, decidimos utilizar diferentes metodologias de forma híbrida,
 
 ## Outros
 *  **Code Reviews**: A revisão de código é feita pelos membros não participantes da issue entregue. A segunda parte é feita na reunião da Sprint onde o time avalia e repassa os conhecimentos adquiridos, as dificuldades enfrentadas e então o que deve ser melhorado vem à tona.
-
-# Ferramentas
-* **GitHub**: Utilizado para armazenamento de documentos e código, versionamento e gerência e comunicação das issues.
-* **Microsoft Teams**: Utilizado para realização e gravação das reuniões e pareamentos.
-* **Google Drive**: Utilizado para armazenamento de documentos diversos.
-* **Telegram**: Utilizado para realização das dailies e comunicação entre os membros da equipe, monitores e professora.
-* **Zenhub**: Utilizado como KanBan do projeto.
-* **Google Calendar**: Utilizado para organização das entregas e reuniões.
-* **Discord**: Utilizado para comunicação com o professor e cliente, além de poder marcar reuniões entre os envolvidos.
-
-# Plano de Métricas
-
-<p>O Plano de Métricas tem como objetivo descrever todas as ferramentas e métodos utilizados para coletar as métricas e indicadores do projeto. As métricas e indicadores levantados serão levados para todo o time e as decisões serão tomadas em conjunto, levando para a equipe, a importância e o valor de coletar métricas.</p>
-<p>É muito importante lembrar que os indicadores permitem  um aspecto muito importante do <b>Manifesto de Desenvolvimento Ágil</b>:<b> Melhoria Contínua</b>, ou seja, avaliando a produtividade do time e percebendo algum problema por meio da coleta de dados, será possível então procurar melhorar</p>
-
-## Burndown
-
-O Burndown é uma ferramenta que permite a visualização das tarefas completadas por dia, mostrando ao final um gráfico em que é possível ver a produtividade da equipe na Sprint. O Burndown nos permite, como time, ter uma boa noção de como está o projeto ao longo da Sprint e consequentemente tomar decisões para que a equipe alcance o seu nível ótimo de produtividade. 
-
-## Velocity
-
-O Velocity é um indicador utilizado para definir a quantidade média entre os pontos do Backlog do produto e o incremento do produto durante a sprint, ou seja, o Velocity indica uma média entre o planejado e o entregue. 
-
-## Health Check
-
-O objetivo do Health Check é uma ferramenta para analisar o panorama geral da situação do time, visando entender aspectos como trabalho em equipe, respeito e até saúde do código. A equipe irá votar entre 1 a 5 para todos os aspectos, podendo ter uma relação das sprints passadas com a saúde do time.
-
-
-## Quadro de conhecimento
-
-O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimento da equipe e ele deve ser modificado toda Sprint para que seja possível ver o progresso do time.
-
-## Cumulative Flow
-O Cumulative Flow é um gráfico que mostra como está o andamento das issues ao longo dos dias. Por exemplo, é possível avaliar em qual época da sprint mais issues estão em progresso, ou quando em que época o time costuma finalizar mais issues. A partir disso é possível tomar decisões para que a entrega contínua melhore.
 
 ## Referências
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/>. Último acesso em 31/07/2021.
