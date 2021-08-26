@@ -4,7 +4,7 @@
 |--------------------|--------------|----------------|
 | 22/08/2021 | Tparinawq | Sofia Patrocínio |
 
-A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada. Tparinawq não autorizou a gravação, portanto a transcrição da entrevista está disponível abaixo.
+A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
 
 ## Perguntas
 
