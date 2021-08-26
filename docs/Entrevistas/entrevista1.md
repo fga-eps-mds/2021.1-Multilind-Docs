@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Entrevista 1
 
 | Data de Realização | Entrevistado      | Entrevistadora   |
@@ -34,3 +35,6 @@ A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. 
 ## Observação
 
 - Houve certa dificuldade na realização da entrevista devido a barreira linguística entre o entrevistado e a entrevistadora, por isso a entrevistadora solicitou ao entrevistado escrever, mas a dificuldade persistiu no entendimento de algumas perguntas, o que afetou o levantamento dos dados avaliados.
+=======
+# Entrevista 1
+>>>>>>> Add interview document
