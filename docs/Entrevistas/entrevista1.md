@@ -1,11 +1,10 @@
-<<<<<<< HEAD
 # Entrevista 1
 
-| Data de Realização | Entrevistado      | Entrevistadora   |
-| ------------------ | ----------------- | ---------------- |
-|     22/08/2021     |     Tparinawq     | Sofia Patrocínio |
+| Data de Realização | Entrevistado | Entrevistadora |
+|--------------------|--------------|----------------|
+| 22/08/2021 | Tparinawq | Sofia Patrocínio |
 
-A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
+A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada. Tparinawq não autorizou a gravação, portanto a transcrição da entrevista está disponível abaixo.
 
 ## Perguntas
 
@@ -35,6 +34,10 @@ A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. 
 ## Observação
 
 - Houve certa dificuldade na realização da entrevista devido a barreira linguística entre o entrevistado e a entrevistadora, por isso a entrevistadora solicitou ao entrevistado escrever, mas a dificuldade persistiu no entendimento de algumas perguntas, o que afetou o levantamento dos dados avaliados.
-=======
-# Entrevista 1
->>>>>>> Add interview document
+## Gravação
+
+- Não disponível
+
+## Observação
+
+- Houve certa dificuldade na realização da entrevista devido a barreira linguística entre o entrevistado e a entrevistadora, por isso a entrevistadora solicitou ao entrevistado escrever, mas a dificuldade persistiu no entendimento de algumas perguntas, o que afetou o levantamento dos dados avaliados.
