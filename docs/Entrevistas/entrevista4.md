@@ -2,35 +2,31 @@
 
 | Data de Realização | Entrevistado      | Entrevistadora   |
 | ------------------ | ----------------- | ---------------- |
-|     22/08/2021     |     Tparinawq     | Sofia Patrocínio |
+|     22/08/2021     |     Karupi       | Sofia Patrocínio |
 
-A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
+A entrevista foi realizada com Karupi de 23 anos, indígena da etnia Pataxô. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
 
 ## Perguntas
 
 ### 1. Nome
-"Tparinawq"
+"Karupi"
 ### 2. Idade
-"20 anos"
+"23 anos"
 ### 3. Estado
 "Mato Grosso"
 ### 4. Qual etnia indígena faz parte?
-"Juruna"
+"Kaiapó"
 ### 5. Qual ou quais línguas indígenas fala?
-"Tupi"
+"Macro-jê"
 ### 6. Costuma ter contato com indígenas de etnias diferentes? Se sim, de que forma?
-"Sim, em eventos"
+"Sim, através de movimentos, eventos como esse"
 ### 7. Como se sente em relação a visibilidade da cultura e das línguas indígenas?
-"Eu conheço muitos povos indígenas diferentes do Brasil"
+"Estamos tentando resgatar nossas línguas, porque cada dia que passa perdemos pessoas mais velhas que são como bibliotecas pra nós que passam culturas, tradições de geração pra geração. Estamos tentando manter firme nossa cultura, para que possamos resistir porque cada dia vemos mais nossa cultura sendo ameaçada."
 ### 8. Em sua aldeia, há conexão com internet?
-"Sim"
+"Tem"
 ### 9. Em uma escala de 1 a 10, qual sua familiaridade com tecnologia?
-"5"
+"7/8"
 ### 10. Você conhece alguma plataforma que possui dados sobre línguas indígenas brasileiras?
 "Não"
 ### 11. Se você conhecesse um aplicativo que sua principal função seja compartilhar informações sobre línguas indígenas, o que não poderia faltar nesse aplicativo?
-"Não sei"
-
-## Observação
-
-- Houve certa dificuldade na realização da entrevista devido a barreira linguística entre o entrevistado e a entrevistadora, por isso a entrevistadora solicitou ao entrevistado escrever, mas a dificuldade persistiu no entendimento de algumas perguntas, o que afetou o levantamento dos dados avaliados.
+"Escrita da língua. Várias vezes, até nós indígenas não conseguimos escrever direito porque a língua é muito oral"

@@ -20,8 +20,12 @@ Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entre
 
 ### [Entrevista 1 - Tparinawq, 20 anos](Entrevistas/entrevista1.md)
 
-### [Entrevista 2 - Idjahuri Karajá, 52 anos]()
+### [Entrevista 2 - Idjahuri Karajá, 52 anos](Entrevistas/entrevista2.md)
 
-### [Entrevista 3 - Charadu Juruno, 30 anos]()
+### [Entrevista 3 - Ubiranã, 36 anos](Entrevistas/entrevista3.md)
 
-### [Entrevista 4 - Kuiavi, 21 anos]()
+### [Entrevista 4 - Karupi, 23 anos](Entrevistas/entrevista4.md)
+
+### [Entrevista 5 - Charadu Juruno, 30 anos]()
+
+### [Entrevista 6 - Kuiavi, 21 anos]()
