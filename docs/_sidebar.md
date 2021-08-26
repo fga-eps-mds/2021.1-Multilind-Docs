@@ -8,5 +8,6 @@
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Lean Inception](LeanInception/intro.md)
 - **Produto**
-  * [MVP](Project/mvp.md)
+  * [MVP](Produto/mvp.md)
+  * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
