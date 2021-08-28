@@ -7,6 +7,7 @@
   * [Dojos](Index/dojosIndex.md)
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Lean Inception](LeanInception/intro.md)
+  * [Plano de Análise de Riscos](Project/analiseRiscos.md)
 - **Produto**
   * [MVP](Project/mvp.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
