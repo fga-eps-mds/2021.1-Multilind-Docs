@@ -8,6 +8,7 @@
 |------|--------|-----------|-------|
 | 25/08/2021 | 1.0 | Abertura do documento | Grupo EPS |
 | 25/08/2021 | 1.1 | Adição do Tópico 1 - Finalidade e Tópico 3 - Metas e Restrições de Arquitetura | Micaella Gouveia |
+| 28/08/2021 | 1.2 | Adição do Diagrama de Contexto | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -56,6 +57,8 @@ A Visão de Casos de Uso descreve um modelo com alta significância de alto nív
 
 ### 5.1 - Diagrama de Contexto
   O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
+  ![Diagrama de Contexto](../img/docArquitetura/diagrama_de_contexto.png)
+  [Arquivo em PDF](../img/docArquitetura/diagrama_de_contexto.pdf)
 
 ### 5.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
