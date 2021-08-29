@@ -4,10 +4,11 @@
 
 ## Histórico de Revisão
 
-| Data       | Versão | Descrição                                                                      | Autor            |
-| ---------- | ------ | ------------------------------------------------------------------------------ | ---------------- |
-| 25/08/2021 | 1.0    | Abertura do documento                                                          | Grupo EPS        |
-| 25/08/2021 | 1.1    | Adição do Tópico 1 - Finalidade e Tópico 3 - Metas e Restrições de Arquitetura | Micaella Gouveia |
+| Data | Versão | Descrição | Autor |
+|------|--------|-----------|-------|
+| 25/08/2021 | 1.0 | Abertura do documento | Grupo EPS |
+| 25/08/2021 | 1.1 | Adição do Tópico 1 - Finalidade e Tópico 3 - Metas e Restrições de Arquitetura | Micaella Gouveia |
+| 28/08/2021 | 1.2 | Adição do Diagrama de Contexto | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -69,8 +70,14 @@ A Visão de Casos de Uso descreve um modelo com alta significância de alto nív
 A visão lógica descreve as partes significativas do ponto de vista da arquitetura do modelo de design, como sua divisão em camadas, pacotes, classes e interfaces.
 
 ### 5.1 - Diagrama de Contexto
+<<<<<<< HEAD
 
 O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
+=======
+  O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
+  ![Diagrama de Contexto](../img/docArquitetura/diagrama_de_contexto.png)
+  [Arquivo em PDF](../img/docArquitetura/diagrama_de_contexto.pdf)
+>>>>>>> Add context diagram
 
 ### 5.2 - Diagrama de Pacotes
 
