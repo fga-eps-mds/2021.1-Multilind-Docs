@@ -21,8 +21,8 @@
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |
 |-------|--------|
-| Gabriel Davi e Pedro Igor | DevOps e Arquiteto |
-| Micaella Gouveia e Sofia Patrocínio | Product Manager e Scrum Master |
+| Gabriel Davi e Sofia Patrocínio | DevOps e Arquiteto |
+| Micaella Gouveia e Pedro Igor | Product Manager e Scrum Master |
 
 ## Pareamento MDS
 | Integrantes | Atividade |
