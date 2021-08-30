@@ -8,9 +8,7 @@
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
   * [Lean Inception](LeanInception/intro.md)
-  * [Plano de Análise de Riscos](Project/analiseRiscos.md)
   * [Análise de Gantt](Project/analiseGantt.md)
-  * [Plano de Análise de Riscos](Project/analiseRiscos.md)
 - **Produto**
   * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
