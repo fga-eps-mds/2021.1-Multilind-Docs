@@ -5,6 +5,8 @@
 |:----:|:------:|:---------:|:---------:|
 | 27/08/2021 | 1.0 | Criação do documento | Grupo EPS |
 | 28/08/2021 | 1.1 | Elicitação dos riscos, probabilidades, impactos e ações | Grupo EPS e MDS |
+| 30/08/2021 | 1.2 | Adição da tabela de riscos e análise | Micaella Gouveia |
+
 
 ## Introdução
 
@@ -12,7 +14,7 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 
 ## Estrutura Análitica de Riscos
 
-![Estutura Análitica de riscos](../assets/img/riscos/fluxoAnaliseRiscos.png)
+![Estutura Análitica de riscos](../assets/riscos/riscos.png)
 
 ### Descrição dos Itens da Estrutura analítica de Risco
 
@@ -139,7 +141,8 @@ Sendo que:
 | 37 | Afastamento de integrante (enfermidade, luto, assistência familiar)  | 3 | 3 | **9** |
 | 38 | Atualizações drásticas das tecnologias escolhidas                    | 1 | 3 | **3** |
 
-0<br/>
+<br/>
+
 
 # Planejamento de respostas aos riscos
 
@@ -155,21 +158,21 @@ Sendo que:
     </thead>
     <tbody>
         <tr class="risco baixo" style="background:#FFFF66">
-            <th>2</th> 
-            <td>5</td>
-            <td>Desavenças entre os membros</td>
+            <th>3</th>
+            <td>21</td>
+            <td>Má prática do processo de desenvolvimento</td>
             <td>Prevenir</td>
-            <td>Respeitar tempo, opinião e limitações dos membros, ser empático</td>
+            <td>Estudar boas práticas de programação</td>
         </tr>
         <tr class="risco baixo" style="background:#FFFF66">
-            <th>2</th>
-            <td>29</td>
-            <td>Má pontuação das US</td>
-            <td>Prevenir</td>
-            <td>Definir com todos os membros a pontuação, fazer quadros de distribuição de pontos</td>
+            <th>3</th>
+            <td>33</td>
+            <td>Horários divergentes dos integrantes</td>
+            <td>Mitigar</td>
+            <td>Ser flexível com em relação ao horário e às tarefas que serão realizadas</td>
         </tr>
         <tr class="risco baixo" style="background:#FFFF66">
-            <th>2</th>
+            <th>3</th>
             <td>38</td>
             <td>Atualizações drásticas das tecnologias escolhidas</td>
             <td>Aceitar</td>
@@ -177,31 +180,115 @@ Sendo que:
         </tr>
         <tr class="risco baixo" style="background:#FFFF66">
             <th>4</th>
-            <td>2</td>
-            <td>Descomprometimento da Equipe</td>
+            <td>15</td>
+            <td>Dificuldade em hospedar a aplicação</td>
             <td>Mitigar</td>
-            <td>Incentivar dailys, comentários em PRs e no grupo do telegram.</td>
+            <td>Estudar sobre as tecnologias utilizadas</td>
         </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>6</th>
-            <td>7</td>
-            <td>Falta de motivação</td>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
+            <td>36</td>
+            <td>Imprevistos com infraestrutura(internet, energia, computador)</td>
+            <td>Aceitar</td>
+            <td>Tentar realocar as tarefas de acordo com o que aconteceu</td>
+        </tr>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
+            <td>16</td>
+            <td>Documentação que induz ao erro</td>
             <td>Prevenir</td>
-            <td> Incentivar dailys, comentários em PRs e no grupo do telegram, mostrar propósito e impacto das suas ações e suas responsabilidades, dar feedbacks tanto construtivos quanto positivos</td>
+            <td>Valorizar a fase de documentação e mantê-la atualizada, além de todos os membros estarem alinhados com os documentos produzidos </td>
         </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>6</th>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
             <td>20</td>
             <td>Má implementação de UI</td>
             <td>Prevenir</td>
             <td>Estudar sobre UI e testar todas as fases com as clientes</td>
         </tr>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
+            <td>35</td>
+            <td>Baixa adesão da aplicação</td>
+            <td>Mitigar</td>
+            <td>Fazer publicidade do aplicativo para o nosso público alvo</td>
+        </tr>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>5</th>
+            <td>34</td>
+            <td>Suspensão das aulas</td>
+            <td>Aceitar</td>
+            <td>Aguardar o retorno das aulas</td>
+        </tr>-
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>5</th>
+            <td>1</td>
+            <td>Falha de comunicação </td>
+            <td>Mitigar</td>
+            <td>Incentivar dailys, comentários em PRs e no grupo do telegram.</td>
+        </tr>
+        <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
+            <td>4</td>
+            <td>Desistência de Membros</td>
+            <td>Aceitar </td>
+            <td>Realocar tarefas para os membros restantes</td>
+        </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
-            <td>28</td>
-            <td>Cronograma inviável</td>
+            <td>11</td>
+            <td>Má escolha das tecnologias</td>
+            <td>Prevenir</td>
+            <td>Estudar sobre as tecnologias de acordo com a arquitetura definida</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>18</td>
+            <td>Falhas e bugs</td>
             <td>Mitigar</td>
-            <td>Fazer planejamento conforme as entregas definidas</td>
+            <td>Dedicar issues de bugs e refatoração</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>19</td>
+            <td>Má implementação de UX</td>
+            <td>Prevenir</td>
+            <td>Testar todas as fases com as clientes</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>12</td>
+            <td>Dificuldade de ambientação</td>
+            <td>Mitigar</td>
+            <td>Estudar sobre as tecnologias utilizadas</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>14</td>
+            <td>Dificuldade de deploy da aplicação</td>
+            <td>Mitigar</td>
+            <td>Estudar sobre as tecnologias utilizadas</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>3</td>
+            <td>Erro de Priorização</td>
+            <td>Prevenir </td>
+            <td>Definir a prioridade e seguir a documentação</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th> 
+            <td>5</td>
+            <td>Desavenças entre os membros</td>
+            <td>Prevenir</td>
+            <td>Respeitar tempo, opinião e limitações dos membros, ser empático</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>6</th>
+            <td>29</td>
+            <td>Má pontuação das US</td>
+            <td>Prevenir</td>
+            <td>Definir com todos os membros a pontuação, fazer quadros de distribuição de pontos</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
@@ -211,14 +298,7 @@ Sendo que:
             <td>Ter bem definido dias e horários de reunião, pareamentos e entregas</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
-            <th>8</th>
-            <td>4</td>
-            <td>Desistência de Membros</td>
-            <td>Aceitar </td>
-            <td>Realocar tarefas para os membros restantes</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>8</th>
+          <th>8</th>
             <td>10</td>
             <td>Dificuldade em criar backlog</td>           
             <td>Prevenir</td>
@@ -226,31 +306,24 @@ Sendo que:
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>8</th>
-            <td>11</td>
-            <td>Má escolha das tecnologias</td>
+            <td>22</td>
+            <td>Aplicação não atender expectativas do usuário</td>
             <td>Prevenir</td>
-            <td>Estudar sobre as tecnologias de acordo com a arquitetura definida</td>
+            <td>Testar todas as fases com as clientes, recebendo feedbacks e respondendo-os</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>8</th>
-            <td>16</td>
-            <td>Documentação que induz ao erro</td>
+            <td>23</td>
+            <td>Não cumprimento dos requisitos elicitados</td>
             <td>Prevenir</td>
-            <td>Valorizar a fase de documentação e mantê-la atualizada, além de todos os membros estarem alinhados com os documentos produzidos </td>
+            <td>Estar alinhado com a documentação</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>8</th>
-            <td>25</td>
-            <td>Escopo mal definido</td>
+            <td>31</td>
+            <td>Sobrecarga de tarefas</td>
             <td>Prevenir</td>
-            <td> Ter as principais funcionalidades bem definidas e se basear nelas</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>8</th>
-            <td>26</td>
-            <td>Mudança Arquitetural</td>
-            <td>Prevenir</td>
-            <td>Estudar sobre arquitetura, validar com a professor</td>
+            <td>Alertar sobre semanas mais corridas, dias de prova, entre outros</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>8</th>
@@ -268,59 +341,31 @@ Sendo que:
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>9</th>
-            <td>12</td>
-            <td>Dificuldade de ambientação</td>
-            <td>Mitigar</td>
-            <td>Estudar sobre as tecnologias utilizadas</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>9</th>
-            <td>17</td>
-            <td>Ausência de testes</td>
-            <td>Mitigar</td>
-            <td>Colocar testes unitários como critério de aceitação</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>9</th>
-            <td>19</td>
-            <td>Má implementação de UX</td>
+            <td>13</td>
+            <td>Arquitetura mal definida</td>
             <td>Prevenir</td>
-            <td>Testar todas as fases com as clientes</td>
+            <td>Estudar sobre arquitetura, validar com a professor</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>9</th>
-            <td>27</td>
-            <td>Má gestão do tempo</td>
-            <td>Prevenir</td>
-            <td>Definir entregas e atividades</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>9</th>
-            <td>33</td>
-            <td>Horários divergentes dos integrantes</td>
-            <td>Mitigar</td>
-            <td>Ser flexível com em relação ao horário e às tarefas que serão realizadas</td>
+            <td>37</td>
+            <td>Afastamento de integrante (enfermidade, luto, assistência familiar)</td>
+            <td>Aceitar</td>
+            <td>Tentar realocar as tarefas de acordo com o que aconteceu</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>10</th>
-            <td>1</td>
-            <td>Falha de comunicação </td>
+            <td>2</td>
+            <td>Descomprometimento da Equipe</td>
             <td>Mitigar</td>
             <td>Incentivar dailys, comentários em PRs e no grupo do telegram.</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>10</th>
-            <td>14</td>
-            <td>Dificuldade de deploy da aplicação</td>
-            <td>Mitigar</td>
-            <td>Estudar sobre as tecnologias utilizadas</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>3</td>
-            <td>Erro de Priorização</td>
-            <td>Prevenir </td>
-            <td>Definir a prioridade e seguir a documentação</td>
+            <td>24</td>
+            <td>Falta de validação com o stakeholder</td>
+            <td>Prevenir</td>
+            <td>Manter contato com o stakeholder</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
@@ -331,6 +376,13 @@ Sendo que:
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
+            <td>7</td>
+            <td>Falta de motivação</td>
+            <td>Prevenir</td>
+            <td> Incentivar dailys, comentários em PRs e no grupo do telegram, mostrar propósito e impacto das suas ações e suas responsabilidades, dar feedbacks tanto construtivos quanto positivos</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>12</th>
             <td>9</td>
             <td>Dificuldade com as tecnologias</td>
             <td>Mitigar</td>
@@ -338,96 +390,47 @@ Sendo que:
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>12</th>
-            <td>13</td>
-            <td>Arquitetura mal definida</td>
+            <td>17</td>
+            <td>Ausência de testes</td>
+            <td>Mitigar</td>
+            <td>Colocar testes unitários como critério de aceitação</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>12</th>
+            <td>25</td>
+            <td>Escopo mal definido</td>
+            <td>Prevenir</td>
+            <td> Ter as principais funcionalidades bem definidas e se basear nelas</td>
+        </tr>
+        <tr class="risco médio" style="background:#FFB366">
+            <th>12</th>
+            <td>27</td>
+            <td>Má gestão do tempo</td>
+            <td>Prevenir</td>
+            <td>Definir entregas e atividades</td>
+        </tr>
+        <tr class="risco alto" style="background:#FF6666">
+            <th>16</th>
+            <td>26</td>
+            <td>Mudança Arquitetural</td>
             <td>Prevenir</td>
             <td>Estudar sobre arquitetura, validar com a professor</td>
         </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>15</td>
-            <td>Dificuldade em hospedar a aplicação</td>
+        <tr class="risco alto" style="background:#FF6666">
+            <th>20</th>
+            <td>28</td>
+            <td>Cronograma inviável</td>
             <td>Mitigar</td>
-            <td>Estudar sobre as tecnologias utilizadas</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>21</td>
-            <td>Má prática do processo de desenvolvimento</td>
-            <td>Prevenir</td>
-            <td>Estudar boas práticas de programação</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>22</td>
-            <td>Aplicação não atender expectativas do usuário</td>
-            <td>Prevenir</td>
-            <td>Testar todas as fases com as clientes, recebendo feedbacks e respondendo-os</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>23</td>
-            <td>Não cumprimento dos requisitos elicitados</td>
-            <td>Prevenir</td>
-            <td>Estar alinhado com a documentação</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>24</td>
-            <td>Falta de validação com o stakeholder</td>
-            <td>Prevenir</td>
-            <td>Manter contato com o stakeholder</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>31</td>
-            <td>Sobrecarga de tarefas</td>
-            <td>Prevenir</td>
-            <td>Alertar sobre semanas mais corridas, dias de prova, entre outros</td>
-        </tr>
-        <tr class="risco médio" style="background:#FFB366">
-            <th>12</th>
-            <td>35</td>
-            <td>Baixa adesão da aplicação</td>
-            <td>Mitigar</td>
-            <td>Fazer publicidade do aplicativo para o nosso público alvo</td>
-        </tr>
-        <tr class="risco médio" style="background:#FF6666">
-            <th>15</th>
-            <td>34</td>
-            <td>Suspensão das aulas</td>
-            <td>Aceitar</td>
-            <td>Aguardar o retorno das aulas</td>
-        </tr>
-        <tr class="risco médio" style="background:#FF6666">
-            <th>16</th>
-            <td>37</td>
-            <td>Afastamento de integrante (enfermidade, luto, assistência familiar)</td>
-            <td>Aceitar</td>
-            <td>Tentar realocar as tarefas de acordo com o que aconteceu</td>
-        </tr>
-        <tr class="risco médio" style="background:#FF6666">
-            <th>16</th>
-            <td>36</td>
-            <td>Imprevistos com infraestrutura(internet, energia, computador)</td>
-            <td>Aceitar</td>
-            <td>Tentar realocar as tarefas de acordo com o que aconteceu</td>
-        </tr>
-        <tr class="risco médio" style="background:#FF6666">
-            <th>16</th>
-            <td>18</td>
-            <td>Falhas e bugs</td>
-            <td>Mitigar</td>
-            <td>Dedicar issues de bugs e refatoração</td>
+            <td>Fazer planejamento conforme as entregas definidas</td>
         </tr>
     </tbody>
 </table>
 
 ## Análise
-
-- Com a definição de todos os riscos, percebemos que esse semestre é muito atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto.
-- Riscos gerenciais e de infraestrutura são muito relevantes, devido à falta de experiência do time.
-- Riscos de entrosamento e motivação da equipe aparenta ser o menor dos problemas, pois todos se vêem motivados e capacitados de fazer a matéria da melhor forma possível.
+- Com a definição de todos os riscos, percebemos que esse semestre é atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto.
+- Riscos gerenciais e de infraestrutura são muito relevantes, mas com a experiência do time de EPS eles aparentam estar sobre controle.
+- Riscos de entrosamento e motivação da equipe aparenta ser um dos problemas principais, pois o time de MDS não se conhece, mas possuem muita dedicação.
+- O prazo curto do semestre será um dos riscos mais significativos, necessitando um bom planejamento e gerenciamento de projeto.
 
 ## Referências
 * Wiki Gaia <https://fga-eps-mds.github.io/2019.1-Gaia/#/projeto/planoRisco>. Último acesso em 28/08/2021.
