@@ -8,13 +8,14 @@
 |------|--------|-----------|-------|
 | 25/08/2021 | 1.0 | Abertura do documento | Grupo EPS |
 | 25/08/2021 | 1.1 | Adição do Tópico 1 - Finalidade e Tópico 3 - Metas e Restrições de Arquitetura | Micaella Gouveia |
-| 28/08/2021 | 1.2 | Adição do Diagrama de Contexto | Pedro Igor |
+| 28/08/2021 | 1.2 | Adição do Tópico 2 - Tecnologias | Grupo MDS |
+| 28/08/2021 | 1.3 | Adição do Diagrama de Contexto | Pedro Igor |
 
 ## 1 - Introdução
 
 ### 1.1 - Finalidade
 
-Este documento tem como finalidade fornecer uma visão geral da arquitetura do projeto Línguas Indígenas, utilizando-se de diversas visões arquiteturais, tais como a visão lógica e de caso de uso, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo.As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
+Este documento tem como finalidade fornecer uma visão geral da arquitetura do projeto Línguas Indígenas, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo.As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
 
 ### 1.2 - Escopo
 
@@ -47,30 +48,25 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 - Idioma: A aplicação tem idioma para o português, porém ela abordará sobre outras línguas indígenas.
 - Usuários Administradores: Usuários Administradores devem estar ligados com os grupos de linguistas responsáveis pela aplicação.
 
-## 4 - Visão de Casos de Uso
-
-A Visão de Casos de Uso descreve um modelo com alta significância de alto nível em relação às funcionalidades do sistema. Normalmente feito através do Diagrama de Casos de Uso.
-
-
-## 5 - Visão lógica 
+## 4 - Visão lógica 
   A visão lógica descreve as partes significativas do ponto de vista da arquitetura do modelo de design, como sua divisão em camadas, pacotes, classes e interfaces. 
 
-### 5.1 - Diagrama de Contexto
+### 4.1 - Diagrama de Contexto
   O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
   ![Diagrama de Contexto](../img/docArquitetura/diagrama_de_contexto.png)
   [Arquivo em PDF](../img/docArquitetura/diagrama_de_contexto.pdf)
 
-### 5.2 - Diagrama de Pacotes
+### 4.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
 
 
-## 6 - Visão de processos
+## 5 - Visão de processos
 
 
-## 7 - Visão de implantação
+## 6 - Visão de implantação
 
 
-## 8 - Visão de implementação
+## 7 - Visão de implementação
 
 
 ## Referências
