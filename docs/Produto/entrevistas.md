@@ -1,6 +1,6 @@
 # Entrevistas
 
-No dia 22/08, domingo, a aluna Sofia Patrocínio compareceu ao acampamento 'Luta Pela Vida', que trata-se de um movimento indígena com cerca de 6 mil indígenas, de mais de 170 etnias localizado na Esplanada dos Ministérios. Durante o período que esteve lá levantou, junto ao time, 11 perguntas relevantes para entender o público-alvo da aplicação a fim de melhor compreender os processos e sistemas atuais e sobre o que é desejado para a aplicação que será desenvolvida e realizou entrevista com 6 pessoas.
+No dia 22/08, domingo, a aluna Sofia Patrocínio compareceu ao acampamento 'Luta Pela Vida', que trata-se de um movimento indígena com cerca de 6 mil indígenas, de mais de 170 etnias localizado na Esplanada dos Ministérios. Durante o período que esteve lá levantou, junto ao time, 11 perguntas relevantes para entender o público-alvo da aplicação a fim de melhor compreender os processos e sistemas atuais e sobre o que é desejado para a aplicação que será desenvolvida e realizou entrevista com 7 pessoas.
 
 ## Roteiro de Perguntas
 Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entrevistas realizadas. Ele tem o intuito de padronizar as perguntas e possibilitar uma comparação entre as respostas, sendo possível elicitar os requisitos. Segue abaixo este roteiro:
@@ -26,6 +26,8 @@ Foi desenvolvido um roteiro de perguntas que será utilizado para todas as entre
 
 ### [Entrevista 4 - Karupi, 23 anos](Entrevistas/entrevista4.md)
 
-### [Entrevista 5 - Charadu Juruno, 30 anos]()
+### [Entrevista 5 - Takakuro Txucarramãe, 18 anos](Entrevistas/entrevista5.md)
 
-### [Entrevista 6 - Kuiavi, 21 anos]()
+### [Entrevista 6 - Charadu Juruno, 30 anos](Entrevistas/entrevista6.md)
+
+### [Entrevista 7 - Kuiavi, 21 anos](Entrevistas/entrevista7.md)

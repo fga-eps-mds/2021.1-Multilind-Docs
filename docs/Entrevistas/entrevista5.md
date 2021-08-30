@@ -2,16 +2,16 @@
 
 | Data de Realização | Entrevistado      | Entrevistadora   |
 | ------------------ | ----------------- | ---------------- |
-|     22/08/2021     |     Karupi       | Sofia Patrocínio |
+|     22/08/2021     |     Takakuro Txucarramãe   | Sofia Patrocínio |
 
-A entrevista foi realizada com Karupi de 23 anos, indígena da etnia Kaiapó. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
+A entrevista foi realizada com Takakuro Txucarramãe de 18 anos, indígena da etnia Kaiapó. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
 
 ## Perguntas
 
 ### 1. Nome
-"Karupi"
+"Takakuro Txucarramãe"
 ### 2. Idade
-"23 anos"
+"18 anos"
 ### 3. Estado
 "Mato Grosso"
 ### 4. Qual etnia indígena faz parte?
@@ -19,14 +19,14 @@ A entrevista foi realizada com Karupi de 23 anos, indígena da etnia Kaiapó. O 
 ### 5. Qual ou quais línguas indígenas fala?
 "Macro-jê"
 ### 6. Costuma ter contato com indígenas de etnias diferentes? Se sim, de que forma?
-"Sim, através de movimentos, eventos como esse"
+"Sim, eventos e festas tradicionais"
 ### 7. Como se sente em relação a visibilidade da cultura e das línguas indígenas?
-"Estamos tentando resgatar nossas línguas, porque cada dia que passa perdemos pessoas mais velhas que são como bibliotecas pra nós que passam culturas, tradições de geração pra geração. Estamos tentando manter firme nossa cultura, para que possamos resistir porque cada dia vemos mais nossa cultura sendo ameaçada."
+"Pouca visibilidade, poucos não indígenas tem acesso a cultura"
 ### 8. Em sua aldeia, há conexão com internet?
 "Tem"
 ### 9. Em uma escala de 1 a 10, qual sua familiaridade com tecnologia?
-"7/8"
+"6"
 ### 10. Você conhece alguma plataforma que possui dados sobre línguas indígenas brasileiras?
-"Não"
+"No momento, nenhuma"
 ### 11. Se você conhecesse um aplicativo que sua principal função seja compartilhar informações sobre línguas indígenas, o que não poderia faltar nesse aplicativo?
-"Escrita da língua. Várias vezes, até nós indígenas não conseguimos escrever direito porque a língua é muito oral"
+"Cultura é o mais importante, músicas, histórias que os mais velhos conhecem."
