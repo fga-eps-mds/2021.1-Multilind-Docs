@@ -10,6 +10,7 @@
   * [Análise de Gantt](Project/analiseGantt.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
 - **Produto**
+  * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
