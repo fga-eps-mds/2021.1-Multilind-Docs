@@ -7,8 +7,9 @@
   * [Plano de Métricas](Project/planoMetricas.md)
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
-- **Produto**
   * [Lean Inception](LeanInception/intro.md)
+  * [Análise de Gantt](Project/analiseGantt.md)
+- **Produto**
   * [MVP](Produto/mvp.md)
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)

@@ -9,6 +9,7 @@
 | 25/08/2021 | 1.1 | Adição do Tópico 1 - Finalidade e Tópico 3 - Metas e Restrições de Arquitetura | Micaella Gouveia |
 | 28/08/2021 | 1.2 | Adição do Tópico 2 - Tecnologias | Grupo MDS |
 | 28/08/2021 | 1.3 | Adição do Diagrama de Contexto | Pedro Igor |
+| 29/08/2021 | 1.4 | Adição do Diagrama de Pacotes | Gabriel Davi|
 
 ## 1 - Introdução
 
@@ -71,8 +72,25 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 
 ### 4.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
+  ### **Frontend**
+  Frontend da aplicação desenvolvido utilizando a ferramenta React Native.
 
-O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto.
+  ![Diagrama de Pacote Frontend](../img/docArquitetura/diagrama_de_pacote_frontend.png)
+
+  ### **Backend Server**
+  Servidor responsável por gerenciar as entidades do sistema. Esse módulo se comunica com o Firestore.
+
+  ![Diagrama de Pacote Backend](../img/docArquitetura/diagrama_de_pacote_backend.png)
+
+  ### **Auth Server**
+  Servidor responsável por gerenciar a autenticação do sistema. Esse módulo se comunica com o Firebase Auth.
+
+  ![Diagrama de Pacote Micro serviço auth](../img/docArquitetura/diagrama_de_pacotes_auth.png)
+
+  ### **Assets Server** 
+  Servidor responsável por gerenciar as imagems e áudios pelo sistema. Esse módulo se comunica com o MongoDB.
+
+  ![Diagrama de Pacote Micro Assets](../img/docArquitetura/diagrama_de_pacote_assets.png)
 
 ## 5 - Visão de processos
 
