@@ -6,6 +6,7 @@
   * [Plano de Comunicação](Project/planoComunicacao.md)
   * [Plano de Métricas](Project/planoMetricas.md)
   * [Documento de Arquitetura](Project/docArquitetura.md)
+  * [Plano de Análise de Riscos](Project/analiseRiscos.md)
   * [Lean Inception](LeanInception/intro.md)
   * [Análise de Gantt](Project/analiseGantt.md)
 - **Produto**
