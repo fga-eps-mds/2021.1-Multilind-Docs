@@ -1,8 +1,8 @@
 # Entrevista 1
 
-| Data de Realização | Entrevistado      | Entrevistadora   |
-| ------------------ | ----------------- | ---------------- |
-|     22/08/2021     |     Tparinawq     | Sofia Patrocínio |
+| Data de Realização | Entrevistado | Entrevistadora |
+|--------------------|--------------|----------------|
+| 22/08/2021 | Tparinawq | Sofia Patrocínio |
 
 A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. O tipo de entrevista realizada foi fechada e a transcrição pode ser vista abaixo.
 
@@ -30,6 +30,13 @@ A entrevista foi realizada com Tparinawq de 20 anos, indígena da etnia Juruna. 
 "Não"
 ### 11. Se você conhecesse um aplicativo que sua principal função seja compartilhar informações sobre línguas indígenas, o que não poderia faltar nesse aplicativo?
 "Não sei"
+
+## Observação
+
+- Houve certa dificuldade na realização da entrevista devido a barreira linguística entre o entrevistado e a entrevistadora, por isso a entrevistadora solicitou ao entrevistado escrever, mas a dificuldade persistiu no entendimento de algumas perguntas, o que afetou o levantamento dos dados avaliados.
+## Gravação
+
+- Não disponível
 
 ## Observação
 

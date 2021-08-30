@@ -7,7 +7,6 @@
 | 28/08/2021 | 1.1 | Elicitação dos riscos, probabilidades, impactos e ações | Grupo EPS e MDS |
 | 30/08/2021 | 1.2 | Adição da tabela de riscos e análise | Micaella Gouveia |
 
-
 ## Introdução
 
 O objetivo deste documento é explicitar como aconteceu o plano de análise de riscos. O gerenciamento de riscos está incluso no processo de gerenciamento de projeto que inclui, além dos riscos, pessoas, custos, escopo, entre outros. O documento define como serão identificados, quantificados e qualificados, mantidos e controlados todos os riscos previstos. _Para produção deste artefato, foi usado o documento do grupo Gaia como base cujo a wiki se encontra nas referências desse documento._
@@ -142,7 +141,6 @@ Sendo que:
 | 38 | Atualizações drásticas das tecnologias escolhidas                    | 1 | 3 | **3** |
 
 <br/>
-
 
 # Planejamento de respostas aos riscos
 
@@ -298,7 +296,7 @@ Sendo que:
             <td>Ter bem definido dias e horários de reunião, pareamentos e entregas</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
-          <th>8</th>
+            <th>8</th>
             <td>10</td>
             <td>Dificuldade em criar backlog</td>           
             <td>Prevenir</td>
@@ -427,6 +425,7 @@ Sendo que:
 </table>
 
 ## Análise
+
 - Com a definição de todos os riscos, percebemos que esse semestre é atípico, e questões que não temos controle podem acontecer, gerando a interrupção do projeto.
 - Riscos gerenciais e de infraestrutura são muito relevantes, mas com a experiência do time de EPS eles aparentam estar sobre controle.
 - Riscos de entrosamento e motivação da equipe aparenta ser um dos problemas principais, pois o time de MDS não se conhece, mas possuem muita dedicação.
