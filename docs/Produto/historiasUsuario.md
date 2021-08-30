@@ -13,7 +13,7 @@ A User Story é apenas uma promessa de uma conversa, um lembrete de que mais det
 
 ## Template
 
-Segue abaixo um template de uma US, padrão que deve ser seguido para a documentaçao de todas as histórias de usuário.
+Segue abaixo um template de uma US, padrão que deve ser seguido para a documentação de todas as histórias de usuário.
 
 ### **US(Id da US) Nome da História de Usuário**
 | Eu como | desejo | para que eu possa |

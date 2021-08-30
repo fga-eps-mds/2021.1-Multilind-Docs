@@ -13,7 +13,7 @@ Para a priorização dos requisitos foi feita a técnica do MoSCoW.
 
 ## Instrospecção
 
-A introspecção é uma é uma técnica muito utilizada na etapa de elicitação. Ela consiste em entender as funcionalidades importantes de um sistema, de forma que ele funcione. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade. Uma vez que a pessoa que aplica a introspecção nem sempre tem uma visão voltada para a experiência do usuário. Os integrates fizeram uma atividade que consistia em se colocavar no lugar de um usuário realizando dada tarefa.
+A introspecção é uma é uma técnica muito utilizada na etapa de elicitação. Ela consiste em entender as funcionalidades importantes de um sistema, de forma que ele funcione. Apesar de muito usada, nem sempre a introspecção traz uma visão próxima da realidade. Uma vez que a pessoa que aplica a introspecção nem sempre tem uma visão voltada para a experiência do usuário. Os integrantes fizeram uma atividade que consistia em se colocar no lugar de um usuário realizando dada tarefa.
 
 ## MoSCoW
 
