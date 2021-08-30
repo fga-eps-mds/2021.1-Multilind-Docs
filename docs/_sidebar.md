@@ -6,9 +6,9 @@
   * [Plano de Comunicação](Project/planoComunicacao.md)
   * [Plano de Métricas](Project/planoMetricas.md)
   * [Documento de Arquitetura](Project/docArquitetura.md)
-  * [Lean Inception](LeanInception/intro.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
 - **Produto**
+  * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
