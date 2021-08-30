@@ -14,6 +14,7 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 ## Estrutura Análitica de Riscos
 
 ![Estutura Análitica de riscos](../assets/riscos/riscos.png)
+
 ### Descrição dos Itens da Estrutura analítica de Risco
 
 #### Gerência de projeto
