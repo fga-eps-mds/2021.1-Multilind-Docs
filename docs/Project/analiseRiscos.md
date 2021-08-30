@@ -212,6 +212,13 @@ Sendo que:
             <td>Fazer publicidade do aplicativo para o nosso público alvo</td>
         </tr>
         <tr class="risco baixo" style="background:#FFFF66">
+            <th>4</th>
+            <td>4</td>
+            <td>Desistência de Membros</td>
+            <td>Aceitar </td>
+            <td>Realocar tarefas para os membros restantes</td>
+        </tr>
+        <tr class="risco baixo" style="background:#FFFF66">
             <th>5</th>
             <td>34</td>
             <td>Suspensão das aulas</td>
@@ -224,13 +231,6 @@ Sendo que:
             <td>Falha de comunicação </td>
             <td>Mitigar</td>
             <td>Incentivar dailys, comentários em PRs e no grupo do telegram.</td>
-        </tr>
-        <tr class="risco baixo" style="background:#FFFF66">
-            <th>4</th>
-            <td>4</td>
-            <td>Desistência de Membros</td>
-            <td>Aceitar </td>
-            <td>Realocar tarefas para os membros restantes</td>
         </tr>
         <tr class="risco médio" style="background:#FFB366">
             <th>6</th>
