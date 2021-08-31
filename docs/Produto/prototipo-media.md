@@ -28,7 +28,7 @@ Membros Responsáveis: Herick, Ingrid e Sofia
 - Povos que falam a língua
 
 
-## Protótipo Produzidos
+## Protótipo Produzido
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F3QTzIO07LeO0d84hntzOSP%2FProt%C3%B3tipo-M%C3%A9dia-Fidelidade-L%C3%ADnguas-Ind%C3%ADgenas%3Fnode-id%3D2%253A4%26scaling%3Dscale-down%26page-id%3D0%253A1%26starting-point-node-id%3D2%253A4%26show-proto-sidebar%3D1" allowfullscreen></iframe>
 
 
