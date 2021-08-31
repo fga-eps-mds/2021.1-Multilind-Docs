@@ -106,4 +106,6 @@ Após fazer a issue, faça um fork do repositório e abra um Pull Request com su
 ...
 ```
 
+**Para cada mensagem de commit é interessante que seja seguido o padrão utilizado pelo projeto. A mensagem padrão consiste em uma descrição breve do que foi realizado e, se necessário, os arquivos participantes da modificação. Além disso o comentário deve estar em inglês e no infinitivo.**
+
 Agradecemos desde já e contamos com a sua contribuição =D
