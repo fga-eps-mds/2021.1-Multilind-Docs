@@ -14,5 +14,6 @@
   * [MVP](Produto/mvp.md)
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
+  * [Protótipo de Média Fidelidade](Produto/prototipo-media.md)
   * [Requisitos Elicitados](Produto/requisitos.md)
   * [Histórias de Usuário](Produto/historiasUsuario.md)
