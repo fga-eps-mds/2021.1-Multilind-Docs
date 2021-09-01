@@ -1,9 +1,9 @@
-# 2021.1-Linguas-Indigenas-Docs
+# 2021.1-Linguas-Multilind-Docs
 
 **Número do Grupo**: 3
 <br>
 
-Toda a documentação está exposta de forma organizada em nossa GH Pages: https://fga-eps-mds.github.io/2021.1-Linguas-Indigenas-Docs/#/
+Toda a documentação está exposta de forma organizada em nossa GH Pages: https://fga-eps-mds.github.io/2021.1-Multilind-Docs/#/
 
 ## Alunos
 
