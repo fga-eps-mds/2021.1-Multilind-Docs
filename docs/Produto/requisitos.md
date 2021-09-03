@@ -25,7 +25,7 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 1. Must (Tenho que fazer)
 2. Should (Devo fazer)
 3. Could (Poderia fazer)
-4. Wouldn’t (Não será feito (por enquanto))
+4. Would (Poderia ser feito, mas não será feito por enquanto)
 
 ## Requisitos Elicitados
 
