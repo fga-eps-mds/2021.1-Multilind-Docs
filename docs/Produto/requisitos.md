@@ -10,6 +10,7 @@ Para a priorização dos requisitos foi feita a técnica do MoSCoW.
 |------|--------|-----------|-------|
 | Sprint 1 a 3 | 1.0 | Elicitação dos requisitos | Grupo MDS/EPS e clientes |
 | 28/08/2021 | 1.1 | Finalização da elicitação dos requisitos | Grupo MDS/EPS |
+| 02/09/2021 | 1.2 | Priorização dos requisitos pelo MoSCoW | Grupo EPS |
 
 ## Instrospecção
 
@@ -24,10 +25,11 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 1. Must (Tenho que fazer)
 2. Should (Devo fazer)
 3. Could (Poderia fazer)
-4. Won’t (Não vou fazer)
+4. Would (Poderia ser feito, mas não será feito por enquanto)
 
 ## Requisitos Elicitados
 
+<embed src="https://fga-eps-mds.github.io/2021.1-Linguas-Indigenas-Docs/assets/requisitos/requisitosPriorização.pdf" width="800px" height="650px" />
 
 ## Referências
 * Técnica Moscow: https://rockcontent.com/br/blog/metodo-moscow/. Último acesso em 30/08/2021.

@@ -10,6 +10,8 @@ A User Story é apenas uma promessa de uma conversa, um lembrete de que mais det
 | Data | Versão | Descrição | Autor |
 |------|--------|-----------|-------|
 | 30/08/2021 | 1.0 | Documentação do template das US | Micaella Gouveia |
+| 02/08/2021 | 1.1 | Adição das US das F01, F02, F03| Ingrid e Carlos Rafael |
+| 03/08/2021 | 1.2 | Adição das US das F04, F05, F06 | Herick, Helder e Isadora |
 
 ## Template
 
