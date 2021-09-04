@@ -4,7 +4,12 @@ O Modelo Entidade Relacionamento tem por finalidade modelar todo o banco de dado
 ## Histórico de Revisões
 | Data | Versão | Descrição | Autor(es) |
 |:----:|:------:|:---------:|:---------:|
-| 04/09/2021 | 1.0 | Adição do MER | Pedro Igor |
+| 03/09/2021 | 0.1 | Reunião para modelagem do Banco de Dados | EPS e MDS |
+| 04/09/2021 | 1.0 | Crição do documento e adição do MER | Pedro Igor |
+| 04/09/2021 | 1.1 | Adição do DER | Pedro Igor |
+| 04/09/2021 | 1.2 | Adição do DLD | Pedro Igor |
+
+
 
 ## Modelo Entidade Relacionamento (MER)
 
@@ -60,11 +65,11 @@ Cardinalidade: NxM<br>
 
 ## Diagrama Entidade Relacionamento (DER)
 ![DER](../img/modelagemBancoDeDados/conceitual.png)
-[Arquivo editável no BRModelo](../conceitual.brM3)
+[Arquivo editável no BRModelo](../img/modelagemBancoDeDados/conceitual.brM3)
 
 ## Diagrama Lógico (DLD)
 ![DLD](../img/modelagemBancoDeDados/logico.png)
-[Arquivo editável no BRModelo](../logico.brM3)
+[Arquivo editável no BRModelo](../img/modelagemBancoDeDados/logico.brM3)
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
