@@ -59,7 +59,8 @@ Uma LOCALIDADE pode **habitar** zero ou mais ETNIAS(N).<br>
 Cardinalidade: NxM<br>
 
 ## Diagrama Entidade Relacionamento (DER)
-
+![DER](../img/modelagemBancoDeDados/conceitual.png)
+[Arquivo editável no BRModelo](../conceitual.brM3)
 ## Diagrama Lógico
 
 ## Dicionário de Dados
