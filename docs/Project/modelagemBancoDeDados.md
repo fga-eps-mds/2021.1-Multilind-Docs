@@ -73,4 +73,4 @@ Cardinalidade: NxM<br>
 [Arquivo editável no BRModelo](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/modelagemBancoDeDados/logico.brM)
 
 ## Referências 
-- Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
+- Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 04/09/2021
