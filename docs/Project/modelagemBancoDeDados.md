@@ -61,9 +61,10 @@ Cardinalidade: NxM<br>
 ## Diagrama Entidade Relacionamento (DER)
 ![DER](../img/modelagemBancoDeDados/conceitual.png)
 [Arquivo editável no BRModelo](../conceitual.brM3)
-## Diagrama Lógico
 
-## Dicionário de Dados
+## Diagrama Lógico (DLD)
+![DLD](../img/modelagemBancoDeDados/logico.png)
+[Arquivo editável no BRModelo](../logico.brM3)
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 
