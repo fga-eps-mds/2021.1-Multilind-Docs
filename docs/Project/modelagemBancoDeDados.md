@@ -65,11 +65,12 @@ Cardinalidade: NxM<br>
 
 ## Diagrama Entidade Relacionamento (DER)
 ![DER](../img/modelagemBancoDeDados/conceitual.png)
-[Arquivo editável no BRModelo](../img/modelagemBancoDeDados/conceitual.brM3)
+[Arquivo editável no BRModelo](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/blob/main/docs/img/modelagemBancoDeDados/conceitual.brM3)
+
 
 ## Diagrama Lógico (DLD)
 ![DLD](../img/modelagemBancoDeDados/logico.png)
-[Arquivo editável no BRModelo](../img/modelagemBancoDeDados/logico.brM3)
+[Arquivo editável no BRModelo](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/blob/main/docs/img/modelagemBancoDeDados/logico.brM)
 
 ## Referências 
 - Software para Diagramação do Modelo Entidade Relacionamento - brModelo <http://www.sis4.com/brModelo/>. Último acesso em 25/09/2020 

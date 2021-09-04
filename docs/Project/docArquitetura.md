@@ -68,7 +68,7 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 ### 4.1 - Diagrama de Contexto
   O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
   ![Diagrama de Contexto](../img/docArquitetura/diagrama_de_contexto.png)
-  [Arquivo em PDF](../img/docArquitetura/diagrama_de_contexto.pdf)
+  [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/blob/main/docs/img/docArquitetura/diagrama_de_contexto.pdf)
 
 ### 4.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
