@@ -30,9 +30,10 @@ _Nesta Sprint não foi feita a pontuação das issues._
 
 - Durante a primeira semana da Sprint 0 foi decido a realização de treinamentos para os MDS a fim de alinhar o grupo com algumas tecnologias e conhecimentos necessários para o desenvolvimento do projeto.
 
-- Para a realização dos treinamentos, foi feito um quadro de conhecimento entre os MDS para entender quais eram as principais dificuldades.
+- Para a realização dos treinamentos, foi feito um quadro de conhecimento entre os MDS e EPS para entender quais eram as principais dificuldades.
 
 ![quadro0a](../../img/quadroConhecimento/quadro0a.png)
+![quadro0a](../../img/quadroConhecimento/Equadro0.png)
 
 - Cada EPS ficou responsável em dar um treinamento, e cada um ficou agendado da seguinte forma:
 

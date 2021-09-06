@@ -6,7 +6,7 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| - |[**#47**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/47) | Protótipo de Média Fidelidade | 13 | MDS |
+| [**72**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/72) |[**#47**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/47) | Protótipo de Média Fidelidade | 13 | MDS |
 | [**#58**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/58)|[**#48**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/48) | Representação Arquitetural | 3 | MDS |
 | [**#62**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/62)|[**#49**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/49) | Visão Lógica do Projeto | 3 | Pedro Igor |
 | [**#59**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/59)|[**#50**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/50) | Diagramas de Contexto | 5 | Gabriel Davi |
@@ -16,8 +16,11 @@
 
 ## Pontuação : 40
 
-## Quadro de Conhecimento
+## Quadro de Conhecimento (MDS)
 ![quadro3](../../img/quadroConhecimento/quadro3.png)
+
+## Quadro de Conhecimento (EPS)
+![quadro3](../../img/quadroConhecimento/Equadro3.png)
 
 ## Burndown
 ![burn3](../../img/burndown/burndown3.png)
