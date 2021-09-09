@@ -11,12 +11,13 @@
 | 28/08/2021 | 1.3 | Adição do Diagrama de Contexto | Pedro Igor |
 | 29/08/2021 | 1.4 | Adição do Diagrama de Pacotes | Gabriel Davi|
 | 09/09/2021 | 1.5 | Atualização e adição dos Diagramas de Contexto | Pedro Igor |
+| 09/09/2021 | 1.6 | Atualização dos Diagramas de Pacotes | Pedro Igor |
 
 ## 1 - Introdução
 
 ### 1.1 - Finalidade
 
-Este documento tem como finalidade fornecer uma visão geral da arquitetura do projeto Línguas Indígenas, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo.As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
+Este documento tem como finalidade fornecer uma visão geral da arquitetura do projeto Línguas Indígenas, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo. As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
 
 ### 1.2 - Escopo
 
@@ -90,22 +91,22 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
   ### **Frontend**
   Frontend da aplicação desenvolvido utilizando a ferramenta React Native.
 
-  ![Diagrama de Pacote Frontend](../img/docArquitetura/diagrama_de_pacote_frontend.png)
+  ![Diagrama de Pacotes Frontend](../img/docArquitetura/diagrama_de_pacote_frontend.png)
 
-  ### **Backend Server**
-  Servidor responsável por gerenciar as entidades do sistema. Esse módulo se comunica com o Firestore.
+  ### **User Server**
+  Servidor responsável por gerenciar as entidades de usuário do sistea. Este módulo se comunica com o MongoDB.
 
-  ![Diagrama de Pacote Backend](../img/docArquitetura/diagrama_de_pacote_backend.png)
+  ![Diagrama de Pacotes Backend User Service](../img/docArquitetura/diagrama_de_pacotes_backend_user_service.png)
 
-  ### **Auth Server**
-  Servidor responsável por gerenciar a autenticação do sistema. Esse módulo se comunica com o Firebase Auth.
+  ### **Content Server**
+  Servidor responsável por armazenar os conteúdos do sistema por meio de tabelas além de realizar relacionamentos entre estes conteúdos. Esse módulo se comunica com o PostgreSQL.
 
-  ![Diagrama de Pacote Micro serviço auth](../img/docArquitetura/diagrama_de_pacotes_auth.png)
+  ![Diagrama de Pacotes Backend Content Service](../img/docArquitetura/diagrama_de_pacotes_backend_content_service.png)
 
   ### **Assets Server** 
-  Servidor responsável por gerenciar as imagems e áudios pelo sistema. Esse módulo se comunica com o MongoDB.
+  Servidor responsável por gerenciar as imagems e áudios pelo sistema. Esse módulo se comunica com o Firestore.
 
-  ![Diagrama de Pacote Micro Assets](../img/docArquitetura/diagrama_de_pacote_assets.png)
+  ![Diagrama de Pacotes Backend Assets Service](../img/docArquitetura/diagrama_de_pacotes_backend_assets_service.png)
 
 
 ## Referências
