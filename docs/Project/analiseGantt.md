@@ -10,7 +10,7 @@ Para gestão de um projeto, o gráfico mostra visualmente um painel com as taref
 |------|--------|-----------|-------|
 | 26/08/2021 | 1.0 | Criação e adição da Análise de Gantt | Micaella Gouveia e Sofia Patrocínio |
 
-<embed src="https://fga-eps-mds.github.io/2021.1-Linguas-Indigenas-Docs/img/analiseGantt/CronogramaAtividades.pdf" width="800px" height="650px" />
+<embed src="https://fga-eps-mds.github.io/2021.1-Multilind-Docs/img/analiseGantt/CronogramaAtividades.pdf" width="800px" height="650px" />
 
 ## Referências
 * Análise de Gantt. Disponível em: <https://www.nomus.com.br/blog-industrial/grafico-de-gantt/>. Último acesso em 26/08/2020.
