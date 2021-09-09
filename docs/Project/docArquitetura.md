@@ -92,11 +92,6 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 
   ![Diagrama de Pacote Micro Assets](../img/docArquitetura/diagrama_de_pacote_assets.png)
 
-## 5 - Visão de processos
-
-## 6 - Visão de implantação
-
-## 7 - Visão de implementação
 
 ## Referências
 
