@@ -42,14 +42,14 @@ Eu, como **usuário**, desejo me **cadastrar na aplicação pela conta do Facebo
 
 
 ## Listagem das Histórias de Usuário
-Essa listagem será feita pelas Features do Product Backlog.
+Essa listagem será feita pelos Épicos do Product Backlog.
 
-- [**F01 - Usuários Administradores**](US/F01.md)
-- [**F02 - Usuários Comuns**](US/F02.md)
-- [**F03 - Publicação**](US/F03.md)
-- [**F04 - Visualização**](US/F04.md)
-- [**F05 - Busca**](US/F05.md)
-- [**F06 - Mapa**](US/F06.md)
+- [**E01 - Usuários Administradores**](US/E01.md)
+- [**E02 - Usuários Comuns**](US/E02.md)
+- [**E03 - Publicação**](US/E03.md)
+- [**E04 - Visualização**](US/E04.md)
+- [**E05 - Busca**](US/E05.md)
+- [**E06 - Mapa**](US/E06.md)
 
 ## Referências
 * O que é uma User Story. Disponível em <https://k21.global/tudo-sobre/agilidade/user-stories/o-que-e-user-story>. Último acesso em 30/08/2021.

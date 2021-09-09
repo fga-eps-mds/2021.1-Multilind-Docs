@@ -23,8 +23,11 @@ As issues não entregues foram para a sprint Backlog, pois não obtivemos a vali
 
 ## Dívidas Técnicas: 26
 
-## Quadro de Conhecimento
+## Quadro de Conhecimento (MDS)
 ![quadro2](../../img/quadroConhecimento/quadro2.png)
+
+## Quadro de Conhecimento (EPS)
+![quadro2](../../img/quadroConhecimento/Equadro2.png)
 
 ## Burndown
 ![burn2](../../img/burndown/burndown2.png)

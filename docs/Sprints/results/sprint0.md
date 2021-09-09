@@ -26,8 +26,11 @@ Para as issues de treinamento foi criado um documento que especifica todo o cont
 ## Dívidas Técnicas
 A issue [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/5) ficou em backlog para ser feita quando se iniciar o desenvolvimento em código.
 
-## Quadro de Conhecimento
+## Quadro de Conhecimento (MDS)
 ![quadro0b](../../img/quadroConhecimento/quadro0b.png)
+
+## Quadro de Conhecimento (EPS)
+![quadro0b](../../img/quadroConhecimento/Equadro0b.png)
 
 ## Burndown
 *Como essa sprint não foi pontuada, não há burndown.*

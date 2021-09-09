@@ -23,9 +23,11 @@ Para as issues de treinamento foi criado um documento que especifica todo o cont
 ## Dívidas Técnicas
 *Sem pontuação*
 
-## Quadro de Conhecimento
+## Quadro de Conhecimento (MDS)
 ![quadro1](../../img/quadroConhecimento/quadro1.png)
 
+## Quadro de Conhecimento (EPS)
+![quadro1](../../img/quadroConhecimento/Equadro1.png)
 ## Burndown
 *Como essa sprint não foi pontuada, não há burndown.*
 

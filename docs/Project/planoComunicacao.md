@@ -24,6 +24,16 @@ O foco desse plano é identificar quais são as necessidades comunicativas dos i
 * **Microsoft Teams**: Utilizado para realização e gravação das reuniões e pareamentos.
 * **Jitsi**: Utilizado para reuniões entre os grupos de desenvolvimento, professor e grupo de clientes.
 
+
+## Agenda de Trabalho
+
+Foi feita uma agenda para descobrir os melhores horários para reuniões do grupo e com o grupo de clientes.
+
+![grade](../img/gradeHoraria.png)
+
+Com isso ficou definido:
+* Reunião de EPS/MDS nos sábados (tarde ou manhã)
+* Reunião com as Clientes nas sextas 18h (podendo ser na segunda 20h caso necessário)
 ## Referências
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/>. Último acesso em 31/07/2021.
 * Desenvolvimento Ágil Srum: <http://www.desenvolvimentoagil.com.br/scrum/>. Último acesso em 31/07/2021.

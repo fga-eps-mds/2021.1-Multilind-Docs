@@ -29,7 +29,8 @@ O termo MoSCoW é um acrônimo em inglês derivado da primeira letra de cada uma
 
 ## Requisitos Elicitados
 
-<embed src="https://fga-eps-mds.github.io/2021.1-Linguas-Indigenas-Docs/assets/requisitos/requisitosPriorização.pdf" width="800px" height="650px" />
+<embed src="https://fga-eps-mds.github.io/2021.1-Multilind-Docs/assets/requisitos/requisitosPriorização.pdf" width="800px" height="650px" />
 
+Multilind
 ## Referências
 * Técnica Moscow: https://rockcontent.com/br/blog/metodo-moscow/. Último acesso em 30/08/2021.

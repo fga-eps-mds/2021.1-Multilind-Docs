@@ -1,6 +1,6 @@
 # Guia de contribuição
 
-Este é um documento para orientação em como contribuir para o repositório de documentação do Aplicativo de Línguas Indígenas. Antes de começar a contribuir veja as [issues já abertas](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues), e a nossa [documentação já existente](https://fga-eps-mds.github.io/2021.1-Linguas-Indigenas-Docs/#/).
+Este é um documento para orientação em como contribuir para o repositório de documentação do Aplicativo de Línguas Indígenas. Antes de começar a contribuir veja as [issues já abertas](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues), e a nossa [documentação já existente](https://fga-eps-mds.github.io/2021.1-Multilind-Docs/#/).
 
 Veja as orientações abaixo para cada tipo de contribuição:
 * [Por onde começar a contribuir?](#comece-a-contribuir)
@@ -23,7 +23,7 @@ Veja nossas issues, principalmente as com as tags `help-wanted` e `good-first-is
 ## Encontrou um Bug?
 Caso tenha encontrado algum erro no aplicativo, nos informe por uma issue, assim poderemos estar sempre melhorando. Pedimos que seja descritivo, dessa forma poderemos identificar e reproduzir o erro para concerta-lo.
 
-Antes de reportar o Bug, veja as [issues com a tag `bug`](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/labels/bug) e verifique se o erro identificado já não possui uma issue criada.
+Antes de reportar o Bug, veja as [issues com a tag `bug`](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/labels/bug) e verifique se o erro identificado já não possui uma issue criada.
 
 Para uma boa documentação:
 * Nomeie a issue com um nome claro e descritivo de acordo com o problema;
