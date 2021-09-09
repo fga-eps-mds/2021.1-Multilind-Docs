@@ -12,6 +12,7 @@
 | 29/08/2021 | 1.4 | Adição do Diagrama de Pacotes | Gabriel Davi|
 | 09/09/2021 | 1.5 | Atualização e adição dos Diagramas de Contexto | Pedro Igor |
 | 09/09/2021 | 1.6 | Atualização dos Diagramas de Pacotes | Pedro Igor |
+| 09/09/2021 | 1.7 | Atualização do Tópico 2 - Tecnoloias | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -30,6 +31,9 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 - **React Native**
   É um framework baseado no React, que possibilita o desenvolvimento de aplicações mobile (tanto para Android, quanto para iOS) utilizando a linguagem Javascript. O que diferencia o React Native dos outros frameworks, é que todo o código desenvolvido é convertido para linguagem nativa do sistema operacional, o que acaba tornando o aplicativo muito mais fluido.
 
+- **React**
+  É um framework JS, que possibilita o desenvolvimento de aplicações web utilizando a linguagem Javascript.
+
 ### Backend:
 
 - **NodeJS**
@@ -42,6 +46,9 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 
 - **Mongodb**
   É um sistema de banco de dados global de nuvens orientado a documentos, multiplataforma e de código aberto, voltado para desenvolvedores de aplicativos modernos.
+
+- **PostgreSQL**
+  É um sistema gerenciador de banco de dados relacional de código aberto.
 
 ### Ambiente:
 
