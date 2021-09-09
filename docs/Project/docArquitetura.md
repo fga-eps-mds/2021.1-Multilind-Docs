@@ -10,6 +10,7 @@
 | 28/08/2021 | 1.2 | Adição do Tópico 2 - Tecnologias | Grupo MDS |
 | 28/08/2021 | 1.3 | Adição do Diagrama de Contexto | Pedro Igor |
 | 29/08/2021 | 1.4 | Adição do Diagrama de Pacotes | Gabriel Davi|
+| 09/09/2021 | 1.5 | Atualização e adição dos Diagramas de Contexto | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -67,9 +68,22 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 
 ### 4.1 - Diagrama de Contexto
   O Diagrama de Contexto descreve os processos em nível mais alto, mostrando o contexto geral do projeto.
-  ![Diagrama de Contexto](../img/docArquitetura/diagrama_de_contexto.png)
+  #### User Service
+  ![Diagrama de Contexto User Service](../img/docArquitetura/diagrama_de_contexto_user_service.png)
 
-  [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/docArquitetura/diagrama_de_contexto.pdf)
+  [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/docArquitetura/diagrama_de_contexto_user_service.pdf)
+
+  #### Assets Service
+  ![Diagrama de Contexto Assets Service](../img/docArquitetura/diagrama_de_contexto_assets_service.png)
+
+  [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/docArquitetura/diagrama_de_contexto_assets_service.pdf)
+
+  #### Content Service
+  ![Diagrama de Contexto Content Service](../img/docArquitetura/diagrama_de_contexto_content_service.png)
+
+  [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/docArquitetura/diagrama_de_contexto_content_service.pdf)
+
+  Para funcionalidades de avaliação de conteúdos inseridos será utilizada a mesma arquitetura no entanto o React Native será substituído pelo React para criação de uma página web onde o usuário admin poderá logar e visualizar conteúdos pendentes de avaliação além de aprovar ou reprovar determinado conteúdo.
 
 ### 4.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
