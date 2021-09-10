@@ -12,7 +12,7 @@
 | 29/08/2021 | 1.4 | Adição do Diagrama de Pacotes | Gabriel Davi|
 | 09/09/2021 | 1.5 | Atualização e adição dos Diagramas de Contexto | Pedro Igor |
 | 09/09/2021 | 1.6 | Atualização dos Diagramas de Pacotes | Pedro Igor |
-| 09/09/2021 | 1.7 | Atualização do Tópico 2 - Tecnoloias | Pedro Igor |
+| 09/09/2021 | 1.7 | Atualização do Tópico 2 - Tecnologias | Pedro Igor |
 
 ## 1 - Introdução
 
@@ -91,8 +91,6 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
 
   [Arquivo em PDF](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/raw/main/docs/img/docArquitetura/diagrama_de_contexto_content_service.pdf)
 
-  Para funcionalidades de avaliação de conteúdos inseridos será utilizada a mesma arquitetura no entanto o React Native será substituído pelo React para criação de uma página web onde o usuário admin poderá logar e visualizar conteúdos pendentes de avaliação além de aprovar ou reprovar determinado conteúdo.
-
 ### 4.2 - Diagrama de Pacotes
   O Diagrama de Pacotes demonstra a estrutura de diretórios e arquivos do projeto. 
   ### **Frontend**
@@ -101,7 +99,7 @@ Este documento tem como finalidade fornecer uma visão geral da arquitetura do p
   ![Diagrama de Pacotes Frontend](../img/docArquitetura/diagrama_de_pacote_frontend.png)
 
   ### **User Server**
-  Servidor responsável por gerenciar as entidades de usuário do sistea. Este módulo se comunica com o MongoDB.
+  Servidor responsável por gerenciar as entidades de usuário do sistema. Este módulo se comunica com o MongoDB.
 
   ![Diagrama de Pacotes Backend User Service](../img/docArquitetura/diagrama_de_pacotes_backend_user_service.png)
 
