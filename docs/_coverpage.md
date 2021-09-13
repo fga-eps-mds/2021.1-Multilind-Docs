@@ -1,13 +1,15 @@
 <!-- <img class="logo-image" src='./assets/img/Cover-Image.jpg'> -->
-<h1>Multilind</h1>
+<!-- <h1>Multilind</h1> -->
 
 <style>
 .cover:after {
     content: '';
     width: 100%;
     position: absolute;
-    background-size: 100%;
-    background-image: url("./assets/img/Cover-Image.jpg");
+    background-size: 90%;
+    background-image: url("./assets/img/Cover-Image.png");
+    margin-left: 5%;
+    margin-top: -2%;
 }
 
 .cover h1 {
