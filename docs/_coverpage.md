@@ -1,5 +1,5 @@
 <!-- <img class="logo-image" src='./assets/img/Cover-Image.jpg'> -->
-<h1>Línguas Indígenas</h1>
+<h1>Multilind</h1>
 
 <style>
 .cover:after {
