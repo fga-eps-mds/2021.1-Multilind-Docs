@@ -8,11 +8,11 @@
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Modelagem do Banco de Dados](Project/modelagemBancoDeDados.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
-  * [Lean Inception](LeanInception/intro.md)
   * [Análise de Gantt](Project/analiseGantt.md)
 - **Produto**
   * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
+  * [Product Backlog](Produto/backlog.md)
   * [Manual de Identidade Visual](Produto/manual-id.md)
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
