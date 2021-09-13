@@ -1,6 +1,6 @@
 # Documento de Arquitetura de Software
 
-É um documento que descreve as principais características arquiteturais do projeto Línguas Indígenas. Esse documento cobre diferentes visões de implementação que tornou possível o desenvolvimento da aplicação.
+É um documento que descreve as principais características arquiteturais do Multilinid. Esse documento cobre diferentes visões de implementação que tornou possível o desenvolvimento da aplicação.
 
 ## Histórico de Revisão
 | Data | Versão | Descrição | Autor |
@@ -18,7 +18,7 @@
 
 ### 1.1 - Finalidade
 
-Este documento tem como finalidade fornecer uma visão geral da arquitetura do projeto Línguas Indígenas, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo. As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
+Este documento tem como finalidade fornecer uma visão geral da arquitetura do Multilind, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo. As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
 
 ### 1.2 - Escopo
 
