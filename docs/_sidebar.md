@@ -17,5 +17,6 @@
   * [Entrevistas](Produto/entrevistas.md)
   * [Protótipo de Baixa Fidelidade](Produto/prototipo-baixa.md)
   * [Protótipo de Média Fidelidade](Produto/prototipo-media.md)
+  * [Protótipo de Alta Fidelidade](Produto/prototipo-alta.md)
   * [Requisitos Elicitados](Produto/requisitos.md)
   * [Histórias de Usuário](Produto/historiasUsuario.md)

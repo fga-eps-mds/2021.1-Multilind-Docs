@@ -1,13 +1,24 @@
-<!-- <img class="logo-image" src='./assets/img/Cover-Image.jpg'> -->
-<h1>Línguas Indígenas</h1>
+<img class="logo-image" src='./assets/img/Cover-Image.png'>
+<!-- <h1>Multilind</h1> -->
 
 <style>
 .cover:after {
     content: '';
     width: 100%;
     position: absolute;
-    background-size: 100%;
-    background-image: url("./assets/img/Cover-Image.jpg");
+    background-size: 90%;
+    background-color: #338BAE;
+    /* background-image: url("./assets/img/Cover-Image.png");
+    margin-left: 5%;
+    margin-top: -2%; */
+}
+
+.cover .cover-main {
+    max-width: 100%
+}
+
+.logo-image {
+    width: 800px;
 }
 
 .cover h1 {

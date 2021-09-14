@@ -19,6 +19,29 @@ O quadro de conhecimento tem como objetivo servir de monitoramento do conhecimen
 ## Cumulative Flow
 O Cumulative Flow é um gráfico que mostra como está o andamento das issues ao longo dos dias. Por exemplo, é possível avaliar em qual época da sprint mais issues estão em progresso, ou quando em que época o time costuma finalizar mais issues. A partir disso é possível tomar decisões para que a entrega contínua melhore.
 
+## Métricas Sonar Cloud
+
+Algumas métricas serão retiradas da integração feita com o SonarCloud. São elas:
+
+* functions
+* complexity
+* comment_lines_density
+* duplicated_lines_density
+* coverage
+* ncloc
+* security_rating
+* tests
+* test_success_density
+* test_execution_time
+* reliability_rating
+
+Elas serão geradas pela extensão do sonarCloud, segue abaixo a rota para geração dessas métricas para cada repositório do projeto
+
+* [**2021.1-Multilind-content-server**](https://sonarcloud.io/api/measures/component_tree?component=fga-eps-mds_2021.1-Multilind-content-server&metricKeys=files,functions,complexity,comment_lines_density,duplicated_lines_density,security_rating,tests,test_success_density,test_execution_time,reliability_rating,coverage,ncloc&ps=500)
+* [**2021.1-Multilind-files-server**](https://sonarcloud.io/api/measures/component_tree?component=fga-eps-mds_2021.1-Multilind-files-server&metricKeys=files,functions,complexity,comment_lines_density,duplicated_lines_density,security_rating,tests,test_success_density,test_execution_time,reliability_rating,coverage,ncloc&ps=500)
+* [**2021.1-Multilind-user-server**](https://sonarcloud.io/api/measures/component_tree?component=fga-eps-mds_2021.1-Multilind-user-server&metricKeys=files,functions,complexity,comment_lines_density,duplicated_lines_density,security_rating,tests,test_success_density,test_execution_time,reliability_rating,coverage,ncloc&ps=500)
+* [**2021.1-Multilind-Mobile-App**](https://sonarcloud.io/api/measures/component_tree?component=fga-eps-mds_2021.1-Multilind-Mobile-App&metricKeys=files,functions,complexity,comment_lines_density,duplicated_lines_density,security_rating,tests,test_success_density,test_execution_time,reliability_rating,coverage,ncloc&ps=500)
+
 ## Referências
 * Agile Project Management Best Practices & Guides: <https://blog.zenhub.com/how-the-zenhub-team-uses-zenhub-boards-on-github/>. Último acesso em 31/07/2021.
 * Desenvolvimento Ágil Srum: <http://www.desenvolvimentoagil.com.br/scrum/>. Último acesso em 31/07/2021.
