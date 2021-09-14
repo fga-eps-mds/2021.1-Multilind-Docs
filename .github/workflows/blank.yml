@@ -1,0 +1,31 @@
+name: Download and Add Sonar JSON
+on: [release]
+jobs:
+  Download-And-Upload-File:
+    runs-on: ubuntu-latest
+    env:
+      url_app: ${{secrets.URL_APP}}
+      url_content: ${{secrets.URL_CONTENT}}
+      url_user: ${{secrets.URL_USER}}
+      url_assets: ${{secrets.USER_ASSETS}}
+      name: ${{secrets.COMMITTER_NAME}}
+      email: ${{secrets.COMMITTER_EMAIL}}
+    steps:
+      - name: checkout
+        uses: actions/checkout@v2
+      - name: Commit files # commit the output folder
+        run: |
+          curl ${{env.url_app}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_APP-$(date '+%Y-%m-%d-%H:%M').json
+          curl ${{env.url_content}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_CONTENT-$(date '+%Y-%m-%d-%H:%M').json
+          curl ${{env.url_user}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_USER-$(date '+%Y-%m-%d-%H:%M').json
+          curl ${{env.url_assets}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_ASSETS-$(date '+%Y-%m-%d-%H:%M').json
+          git config --local user.email ${{env.email}}
+          git config --local user.name ${{env.name}}
+          git add .
+          git commit -m "Update sonar report"
+      - name: Push changes # push the output folder to your repo
+        uses: ad-m/github-push-action@master
+        with:
+          branch: main #ignore if your branch is master
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          force: true
