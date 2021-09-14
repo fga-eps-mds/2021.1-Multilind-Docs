@@ -5,6 +5,9 @@
 
 Toda a documentação está exposta de forma organizada em nossa GH Pages: https://fga-eps-mds.github.io/2021.1-Multilind-Docs/#/
 
+## Sobre
+O Multilind é um aplicativo, suportado por todos sistemas operacionais, que tem como objetivo o mapeamento das línguas indígenas brasileiras. Além disso, fornece informações a respeito de determinada língua como tronco línguistico, localização e palavras da língua, bem como transcrição fonética, tradução para o português indígena e português formal e imagens relativas.
+
 ## Alunos
 
 | Matrícula  | Aluno    |GitHub                         |
@@ -18,7 +21,3 @@ Toda a documentação está exposta de forma organizada em nossa GH Pages: https
 | 18/0121995 | Herick de Carvalho Lima          | [@hericklima22](https://github.com/hericklima22)
 | 19/0029731 | Ingrid da Silva Carvalho         | [@ingridSCarvalho](https://github.com/ingridSCarvalho)
 | 18/0122606 | Isadora da Cruz Galvão S. Soares        | [@isadoragalvaoss](https://github.com/isadoragalvaoss)
-
-## Sobre
-
-Trata-se de um sistema para mapeamento de línguas indígenas e de português indígena. 
