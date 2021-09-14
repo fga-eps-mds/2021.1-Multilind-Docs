@@ -1,7 +1,7 @@
-name: Download and Add Sonar JSON
+name: Download and Add Sonar JSONs
 on: [release]
 jobs:
-  Download-And-Upload-File:
+  Download-And-Upload-Files:
     runs-on: ubuntu-latest
     env:
       url_app: ${{secrets.URL_APP}}
@@ -15,10 +15,10 @@ jobs:
         uses: actions/checkout@v2
       - name: Commit files # commit the output folder
         run: |
-          curl ${{env.url_app}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_APP-$(date '+%Y-%m-%d-%H:%M').json
-          curl ${{env.url_content}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_CONTENT-$(date '+%Y-%m-%d-%H:%M').json
-          curl ${{env.url_user}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_USER-$(date '+%Y-%m-%d-%H:%M').json
-          curl ${{env.url_assets}} > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_ASSETS-$(date '+%Y-%m-%d-%H:%M').json
+          curl "${{env.url_app}}" > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_APP-$(date '+%Y-%m-%d-%H:%M').json
+          curl "${{env.url_content}}" > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_CONTENT-$(date '+%Y-%m-%d-%H:%M').json
+          curl "${{env.url_user}}" > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_USER-$(date '+%Y-%m-%d-%H:%M').json
+          curl "${{env.url_assets}}" > analytics-raw-data/fga-eps-mds-2021_1-MULTILIND_ASSETS-$(date '+%Y-%m-%d-%H:%M').json
           git config --local user.email ${{env.email}}
           git config --local user.name ${{env.name}}
           git add .
