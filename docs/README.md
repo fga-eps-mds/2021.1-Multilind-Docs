@@ -1,7 +1,6 @@
-  <h2>MDS/EPS</h2>
   <h3>Sobre o projeto</h3>
 
-  Trata-se de um sistema para mapeamento de línguas indígenas e de português indígena. 
+  O Multilind é um aplicativo, suportado por todos sistemas operacionais, que tem como objetivo o mapeamento das línguas indígenas brasileiras. Além disso, fornece informações a respeito de determinada língua como tronco línguistico, localização e palavras da língua, bem como transcrição fonética, tradução para o português indígena e português formal e imagens relativas.
   
   <h3>Membros da equipe</h3>
 
