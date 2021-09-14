@@ -1,7 +1,7 @@
-# Planejamento Sprint 4
+# Planejamento Sprint 5
 
-**Período: 06/08/2021 a 13/08/2021**<br>
-**Data da Reunião: 04/08/2021**
+**Período: 06/09/2021 a 12/09/2021**<br>
+**Data da Reunião: 04/09/2021**
 
 ## Issues
 

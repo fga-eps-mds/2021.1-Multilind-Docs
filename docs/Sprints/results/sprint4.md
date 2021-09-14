@@ -1,7 +1,7 @@
 # Resultados Sprint 4
 
-**Período: 30/08/2021 a 06/08/2021**<br>
-**Data da Reunião: 04/08/2021**
+**Período: 30/08/2021 a 05/09/2021**<br>
+**Data da Reunião: 04/09/2021**
 
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
