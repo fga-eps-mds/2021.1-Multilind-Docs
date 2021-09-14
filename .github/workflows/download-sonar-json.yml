@@ -1,5 +1,5 @@
 name: Download and Add Sonar JSONs
-on: [release]
+on: [release, push]
 jobs:
   Download-And-Upload-Files:
     runs-on: ubuntu-latest
