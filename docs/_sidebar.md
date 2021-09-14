@@ -9,6 +9,7 @@
   * [Modelagem do Banco de Dados](Project/modelagemBancoDeDados.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
   * [Análise de Gantt](Project/analiseGantt.md)
+  * [Custos do projeto](Project/custos.md)
 - **Produto**
   * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
