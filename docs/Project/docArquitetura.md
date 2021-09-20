@@ -15,6 +15,7 @@
 | 09/09/2021 | 1.7 | Atualização do Tópico 2 - Tecnologias | Pedro Igor |
 | 13/09/2021 | 1.8 | Atualização do Tópico 1 - Escopo | Micaella Gouveia |
 | 13/09/2021 | 1.9 | Atualização do Tópico 1 - Escopo | Sofia Patrocínio |
+| 20/09/2021 | 2.0 | Atualização do Tópico 1 - Escopo | Micaella Gouveia |
 
 ## 1 - Introdução
 
@@ -23,7 +24,7 @@
 Este documento tem como finalidade fornecer uma visão geral da arquitetura do Multilind, utilizando-se de diversas visões arquiteturais, como a visão lógica, a fim de facilitar o entendimento dos processos e funcionamento de todo o sistema. Tem também como objetivo transmitir as decisões arquiteturais significativas tomadas em relação ao mesmo. As decisões foram tomadas pelo grupo MDS/EPS e o grupo de clientes liderados pela professora Altaci.
 
 ### 1.2 - Escopo
-Será um aplicativo mobile para mapeamento das línguas indígenas do Brasil. Entre suas funcionalidades estão o mapeamento das línguas indígenas brasileiras, fornecimento de informações a respeito de determinada língua como tronco línguistico, localização e palavras da língua, bem como sua transcrição fonética, tradução para o português indígena e português formal e imagens relativas. 
+Será um aplicativo mobile para mapeamento das línguas indígenas do Brasil. Entre suas funcionalidades estão o mapeamento das línguas indígenas brasileiras, fornecimento de informações a respeito de determinada língua como tronco línguistico, localização e palavras da língua, tradução para o português indígena e português formal e imagens relativas. 
 
 ## 2 - Representação Arquitetural
 
