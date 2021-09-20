@@ -1,22 +1,21 @@
 # Resultados Sprint 6
 
-
 **Período: 13/09/2021 a 19/09/2021**<br>
 **Data da Reunião: 18/09/2021**
-
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-|[**126**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/126) |[**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | 5 | EPS (+ MDS) |
-| [**124**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/124)|[**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | 8 | Sofia Patrocínio e Micaella|
-| [**123**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/123)| [**#121**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/121) | Documentação do Backlog | 2 | EPS |
-| - |[**#122**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/122) | Apresentação da Release 1 | 8 | EPS + MDS |
-| - |[**#99**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/99) | US12 Associação de palavras | 8 | MDS |
-| - |[**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas | 8 | MDS |
+| [**126**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/126) | [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | 5 | EPS (+ MDS) |
+| [**124**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/124) | [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | 8 | Sofia Patrocínio e Micaella |
+| [**123**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/123) | [**#121**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/121) | Documentação do Backlog | 2 | EPS |
+| - | [**#122**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/122) | Apresentação da Release 1 | 8 | EPS + MDS |
 
-## Pontuação : 44
-
-## Dívida Técnica : 0
+## Pontuação : 28
+## Dívida Técnica : 16
+| Número | Issue | Pontuação | Participantes | Responsável |
+|--------|-------|-----------|---------------|-------------|
+| [**#99**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/99) | US12 Associação de palavras | 8 | MDS | Carlos Rafael, Herick e Ingrid |
+| [**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas | 8 | MDS | Helder e Isadora |
 
 ## Quadro de Conhecimento (MDS)
 ![quadro6](../../img/quadroConhecimento/quadro6.png)

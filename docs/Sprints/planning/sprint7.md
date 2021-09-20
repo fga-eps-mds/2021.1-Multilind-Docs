@@ -9,16 +9,21 @@
 |--------|-------|-----------|---------------|-------------|
 | [**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas | 3 | MDS | Hérick e Ingrid |
 | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS | Carlos Rafael e Isadora |
-| [**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
-| [**#130**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/130) | Configuração Inicial do Banco Firestore | 8 | MDS (+ EPS) | Helder + Pedro Igor |
+| [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
+| [**#130**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/130) | Configuração Inicial do Banco Storage Firebase | 8 | MDS (+ EPS) | Helder + Pedro Igor |
+| [**#131**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/131) | Deploy contínuo dos microsserviços | 5 | EPS | Gabriel Davi |
+| [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
+| [**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS | Sofia Patrocínio |
+| [**#134**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/134) |  ROI - Retorno de Investimento | 5 |EPS | Sofia Patrocínio |
+| [**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | 3 | EPS | Micaella Gouveia |
 
-## Pontuação : 44
+## Pontuação : 46
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |
 |-------|--------|
-| Sofia Patrocínio e Micaella Gouveia | DevOps e Arquiteto |
-| Gabriel Davi e Pedro Igor | Product Manager e Scrum Master |
+| Gabriel Davi e Pedro Igor | DevOps e Arquiteto |
+| Sofia Patrocínio e Micaella Gouveia  | Product Manager e Scrum Master |
 
 ## Pareamento MDS
 | Integrantes | Atividade |
@@ -26,7 +31,7 @@
 | Hérick e Ingrid | US13 Listagem de línguas |
 | Hérick e Ingrid | US17 Listagem de palavras por línguas |
 | Carlos Rafael e Isadora | US13 Listagem de línguas |
-| Helder + Pedro Igor | Configuração Inicial do Banco Firestore|
+| Helder + Pedro Igor | Configuração Inicial do Banco Storage Firebase|
 
 
 ## Relato
