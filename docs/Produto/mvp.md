@@ -13,6 +13,16 @@ Após realização da Lean Inception e aplicação do sequenciador, foi possíve
 | MDS | Ingrid Carvalho, Hérick Lima, Carlos Rafael, Helder Lourenço |
 
 
+## MVP
+Com as atualizações do escopo do projeto, o MVP foi alterado para melhor atender as necessidades das clientes com o tempo de projeto. Segue abaixo o MVP que será entregue dia 10/10/2021.
+
+![mvp](../assets/mvp/mvp.png)
+
+## Entrega Final
+Com as atualizações do escopo do projeto, a entrega final foi alterada para melhor atender as necessidades das clientes com o tempo de projeto. Segue abaixo as funcionalidades que serão acrescentadas ao produto para a entrega final, com data marcada para o dia 08/11/2021.
+
+![entregaFinal](../assets/mvp/entregaFinal.png)
+
 ## Apresentação
 <div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
  padding-bottom: 48px; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
