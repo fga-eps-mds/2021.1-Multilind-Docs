@@ -7,7 +7,13 @@ O Product Backlog é uma lista ordenada de todos os requisitos que se tem conhec
 | 20/08/2021 | 1.0 | Criação do backlog com os requisitos elicitados (V0) | Grupo EPS e MDS |
 | 30/08/2021 | 1.1 | Criação do backlog com as US criadas (V1) | Grupo MDS |
 | 13/09/2021 | 1.2 | Atualização das US que foram retiradas do escopo (V2) | Grupo EPS |
+| 20/09/2021 | 1.3 | Atualização das US que foram retiradas do escopo (V3) | Grupo EPS |
 
+
+## Product Backlog V3
+Com a [Análise de Custos e Tempo](Project/custos.md), o cronograma da disciplina ficou inviável para o tamanho do escopo do projeto, tendo que ser feita uma outra diminuição. Segue o product backlog mais atualizado. Todas as US e Épicos estão linkados com as issues criadas no repositório de documentação [**Multilind-Docs**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/).
+
+<embed src="https://fga-eps-mds.github.io/2021.1-Multilind-Docs/assets/backlog/backlogV3.pdf" width="800px" height="500px" />
 
 ## Product Backlog V2
 Após a diminuição do escopo, as US em vermelho foram retiradas. Todas as US e Épicos estão linkados com as issues criadas no repositório de documentação [**Multilind-Docs**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/).
