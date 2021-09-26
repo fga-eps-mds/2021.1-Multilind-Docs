@@ -37,5 +37,11 @@
 ## Retrospectiva
 ![retro6](../../img/retrospective/retro6.png)
 
+## Burndown de Riscos
+![riscos6](../../img/riscos/riscos6.png)
+
+* Foi uma sprint apertada na segunda feira com a entrega da release 1, mas depois ficou mais tranquilo, sendo focada na apresentação
+* Clientes concordaram com o corte do escopo, ficando mais fácil o planejamento do novo MVP e entrega final
+
 ## Observações
 - Essa foi a Sprint de entrega da Release 1, tendo muitas entregas na segunda feira dia da entrega, e a preparação da apresentação para as clientes na sexta feira.

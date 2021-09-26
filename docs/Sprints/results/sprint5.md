@@ -41,6 +41,13 @@
 ## Retrospectiva
 ![retro5](../../img/retrospective/retro5.png)
 
+## Burndown de Riscos
+![riscos5](../../img/riscos/riscos5.png)
+
+* Primeira semana de desenvolvimento do código, dificuldade nos pareamentos.
+* Algumas dívidas técnicas já com muito tempo sem serem entregas.
+* Muitas tarefas novas e ajustes de EPS com a entrega da release 1.
+
 ## Observações
 - Essa foi a primeira Sprint de desenvolvimento de MDS. Houve dificuldades com o pareamento pela discrepância de conhecimento entre os membros, pois houve uma dificuldade de aplicar o piloto e co-piloto. O grupo de EPS conversou com o grupo para que isso não se repita.
 - O time que pareou com o EPS Gabriel Davi aprendeu bastante sofre o front e a biblioteca de mapas. Mas houve um problema para emular o aplicativo, sendo feita no computador do Gabriel, mas para as próximas semanas será utilizado o Expo.

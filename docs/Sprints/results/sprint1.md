@@ -45,6 +45,13 @@ Para as issues de treinamento foi criado um documento que especifica todo o cont
 ![retro1](../../img/retrospective/retro1.png)
 
 
+## Burndown de Riscos
+![riscos1](../../img/riscos/riscos1.png)
+
+* Nesta sprint houve a fnalização da Lean, a ideia do produto e escopo foram melhor esclarescidos.
+* Dúvidas em quais tecnologias serão utilizadas ainda existem.
+* A comunicação com as clientes foi excelente.
+
 ## Observações
 - Nesta Sprint foram finalizadas as atividades da Lean Inception. Tivemos a participação da professora Altaci e seu grupo em três dias da reunião, deixando o último dia apenas com o grupo de MDS/EPS.
 - Foi possível também realizar os treinamentos de Node e React para alinhamento da equipe.

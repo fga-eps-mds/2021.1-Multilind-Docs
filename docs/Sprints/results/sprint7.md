@@ -45,6 +45,13 @@
 ## Retrospectiva
 ![retro7](../../img/retrospective/retro7.png)
 
+## Burndown de Riscos
+![riscos7](../../img/riscos/riscos7.png)
+
+* Semana com muitas entregas, mas a comunicçação ajudou a entender como o planejamento pro MVP vai funcionar
+* Equipe trabalhou muito bem com os pareamentos
+* Com o escopo reduzido, o planejamento ficou mais viável
+
 ## Observações
 * Nesta Sprint tivemos um feedback do professor Hilmer. Ele em geral foi muito positivo, dando ao time um novo gás para continuar o projeto.
 * Algumas pontuações foram feitas pelo professor, que teremos que nos atentar como:

@@ -42,6 +42,12 @@
 ## Retrospectiva
 ![retro4](../../img/retrospective/retro4.png)
 
+## Burndown de Riscos
+![riscos4](../../img/riscos/riscos4.png)
+
+* O time de EPS analisou todas as entregas para a release 1 e conseguiu entregá-las.
+* Com as datas pré definidas para as issues, o burndown e velocity melhoraram em comparação com a sprint passada.
+
 ## Observações
 - Como as datas para cada issue foi pre definida, conseguimos entregar de forma evolutiva a maioria das issues, ficando de fora a Issue do Protótipo de Alta e de Análise de Riscos.
 - Houve uma boa comunicação entre MDS e EPS durante a semana, gerando várias reuniões em conjunto.
