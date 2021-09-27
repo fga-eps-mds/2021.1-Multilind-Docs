@@ -15,7 +15,7 @@
 
 
 ## Pontuação : 35
-## Dívida Técnica : 24
+## Dívida Técnica : 27
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS | Carlos Rafael e Isadora |
