@@ -13,6 +13,7 @@
 - **Produto**
   * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
+  * [Canvas PBB](Produto/pbb.md)
   * [Product Backlog](Produto/backlog.md)
   * [Manual de Identidade Visual](Produto/manual-id.md)
   * [Entrevistas](Produto/entrevistas.md)
