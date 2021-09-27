@@ -11,11 +11,10 @@
 | [**Mobile #8**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/8) |[**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas Parte 2| 3 | MDS |
 | [**Files #4**](https://github.com/fga-eps-mds/2021.1-Multilind-files-server/pull/4)|[**#130**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/130) | Configuração Inicial do Banco Storage Firebase | 8 | MDS (+ EPS) |
 | - |[**#131**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/131) | Deploy contínuo dos microsserviços | 5 | EPS|
-| - |[**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS |
 | [**Docs #137**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/137)|[**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | 3 | EPS |
 
 
-## Pontuação : 38
+## Pontuação : 35
 ## Dívida Técnica : 24
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
@@ -23,6 +22,7 @@
 | [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
 | [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
 | [**#134**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/134) |  ROI - Retorno de Investimento | 5 |EPS | Sofia Patrocínio |
+|[**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS | Sofia Patrocínio |
 
 ## Quadro de Conhecimento (MDS)
 ![quadro7](../../img/quadroConhecimento/quadro7.png)
@@ -54,7 +54,7 @@
 
 ## Observações
 * Nesta Sprint tivemos um feedback do professor Hilmer. Ele em geral foi muito positivo, dando ao time um novo gás para continuar o projeto.
-* Algumas pontuações foram feitas pelo professor, que teremos que nos atentar como:
+* Algumas pontuações foram feitas pelo professor, que teremos que nos atentar, como:
   * Fazer o monitoramento dos riscos e custos do projeto semanalmente
   * Atentar-se ao overhead de documentação
   * Tornar backlog interativo
