@@ -36,8 +36,13 @@
 ![cumulative3](../../img/cumulativeFlow/cumulative3.png)
 
 ## Retrospectiva
-
 ![retro3](../../img/retrospective/retro3.png)
+
+## Burndown de Riscos
+![riscos3](../../img/riscos/riscos3.png)
+
+* Entregas muito apertadas geraram burndown e velocity ruins.
+* Ainda existem dúvidas sobre a viabilidade do escopo e sua priorização.
 
 
 ## Observações

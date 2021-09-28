@@ -44,6 +44,10 @@ A issue [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/is
 ## Cumulative Flow
 ![cumulative0](../../img/cumulativeFlow/cumulative0.png)
 
+## Burndown de Riscos
+![riscos0](../../img/riscos/riscos0.png)
+
+* Foi a primeira Sprint do time, o time de MDS e EPS ainda não se conhece muito bem, gerando uma dúvida em relação a comunicação e comprometimento, mas todos aparentaram estar empolgados com a matéria.
 
 ## Observações
 - Foi realizada a primeira reunião com a cliente professora Altaci e seu grupo, para ter as primeiras impressões do produto a ser desenvolvido e para que as equipes se conhecessem.

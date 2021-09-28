@@ -24,3 +24,6 @@
 - Sprint 7
     - [Planejamento Sprint 7](Sprints/planning/sprint7.md)
     - [Resultado Sprint 7](Sprints/results/sprint7.md)
+- Sprint 8
+    - [Planejamento Sprint 8](Sprints/planning/sprint8.md)
+    - [Resultado Sprint 8](Sprints/results/sprint8.md)

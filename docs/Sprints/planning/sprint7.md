@@ -31,6 +31,7 @@
 | Hérick e Ingrid | US13 Listagem de línguas |
 | Hérick e Ingrid | US17 Listagem de palavras por línguas |
 | Carlos Rafael e Isadora | US13 Listagem de línguas |
+| Carlos Rafael e Isadora | US14 Listagem de línguas por troncos linguísticos |
 | Helder + Pedro Igor | Configuração Inicial do Banco Storage Firebase|
 
 

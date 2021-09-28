@@ -42,8 +42,14 @@ As issues não entregues foram para a sprint Backlog, pois não obtivemos a vali
 ![cumulative2](../../img/cumulativeFlow/cumulative2.png)
 
 ## Retrospectiva
-
 ![retro2](../../img/retrospective/retro2.png)
+
+## Burndown de Riscos
+![riscos2](../../img/riscos/riscos2.png)
+
+* Nesta sprint houve atrasos nas entregas.
+* O grupo de EPS ficou um pouco perdido com o que deveria estar sendo feito.
+* O time de clientes não conseguiu participar da reunião, atrasando um pouco nosso planejamento.
 
 
 ## Observações
