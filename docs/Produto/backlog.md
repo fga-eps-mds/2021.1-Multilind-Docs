@@ -13,7 +13,10 @@ O Product Backlog é uma lista ordenada de todos os requisitos que se tem conhec
 ## Product Backlog V3
 Com a [Análise de Custos e Tempo](Project/custos.md), o cronograma da disciplina ficou inviável para o tamanho do escopo do projeto, tendo que ser feita uma outra diminuição. Segue o product backlog mais atualizado. Todas as US e Épicos estão linkados com as issues criadas no repositório de documentação [**Multilind-Docs**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/).
 
-<embed src="https://fga-eps-mds.github.io/2021.1-Multilind-Docs/assets/backlog/backlogV3.pdf" width="800px" height="500px" />
+<!-- <embed src="https://fga-eps-mds.github.io/2021.1-Multilind-Docs/assets/backlog/backlogV3.pdf" width="800px" height="500px" /> -->
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSXA_pNy5-0RkgoNQkrubTI1oHnn5xJR1Lds_rYffvAYJDMKkv9TZj9x5EZMu_HTXAE5Z6-OO0f8PZY/pubhtml?gid=1247435986&amp;single=true&amp;widget=false&amp;headers=false&amp;range=a1%3Af21&amp;chrome=false" width="800px" height="500px"></iframe>
+
 
 ## Product Backlog V2
 Após a diminuição do escopo, as US em vermelho foram retiradas. Todas as US e Épicos estão linkados com as issues criadas no repositório de documentação [**Multilind-Docs**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/).
