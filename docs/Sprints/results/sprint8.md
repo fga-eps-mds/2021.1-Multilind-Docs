@@ -16,10 +16,11 @@
 
 
 ## Pontuação : 34
-## Dívida Técnica : 16
+## Dívida Técnica : 24
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#103**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/103) | US16 Listagem de etnias por língua | 8 | MDS | Hérick e Ingrid |
+| [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
 | [**#111**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/111) | US25 Localização do usúario - MAPA | 8 | MDS (+ EPS) | Helder + Gabriel Davi |
 
 
