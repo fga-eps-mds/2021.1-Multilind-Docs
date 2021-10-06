@@ -56,10 +56,6 @@ Com isso, podemos pegar os valores totais de todos os os custos descritos a cima
 |------|--------|--------|--------|--------|
 | R$ 33,750 | R$ 49,500  | R$ 4,320| R$3,510 | R$ 91,080 |
 
-
-
-
-
 ## Referências
 
 Custo de um aluno para a Universidade de Brasília: https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_ensinosuperior/2015/03/05/ensino_ensinosuperior_interna,474102/portas-abertas-ao-cidadao.shtml, último acesso em 13/09/2021
