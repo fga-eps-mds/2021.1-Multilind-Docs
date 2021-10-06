@@ -10,7 +10,7 @@
 | [**123**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/123) | [**#121**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/121) | Documentação do Backlog | 2 | EPS |
 | - | [**#122**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/122) | Apresentação da Release 1 | 8 | EPS + MDS |
 
-## Pontuação : 28
+## Pontuação : 10 + 13 (Dívidas Técnicas)
 ## Dívida Técnica : 16
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
