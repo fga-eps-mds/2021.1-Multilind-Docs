@@ -13,7 +13,7 @@
 | [**Mobile #4**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/4) |[**#84**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/84) | US24 Localização no Mapa (Parte 1) | 8 | Grupo MDS ( + Gabriel Davi) | Isadora e Ingrid ( + Gabriel Davi) |
 | [**Content #1**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/1) [**Content #2**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/2)| [**#85**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/82) | US11 Cadastro de Etnia (Parte 1) | 8 | Grupo MDS | Carlos Rafael, Helder e Hérick |
 
-## Pontuação : 26
+## Pontuação : 31
 
 ## Dívida Técnica : 13
 | Número | Issue | Pontuação | Participantes | Responsável |

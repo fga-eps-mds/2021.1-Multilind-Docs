@@ -14,7 +14,7 @@
 | [**Docs #137**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/137)|[**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | 3 | EPS |
 
 
-## Pontuação : 35
+## Pontuação : 19 + 16 (Dívidas Técnicas)
 ## Dívida Técnica : 27
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|

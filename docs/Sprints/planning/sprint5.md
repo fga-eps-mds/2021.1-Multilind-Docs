@@ -3,12 +3,19 @@
 **Período: 06/09/2021 a 12/09/2021**<br>
 **Data da Reunião: 04/09/2021**
 
-## Issues
+## Issues Dívidas Técnicas
 
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | 5 | EPS (+ MDS) | EPS |
 | [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | 8 | Sofia Patrocínio e Micaella | Sofia Patrocínio e Micaella |
+
+### Pontuação Dívidas Técnicas: 13
+
+## Issues
+
+| Número | Issue | Pontuação | Participantes | Responsável |
+|--------|-------|-----------|---------------|-------------|
 | [**#81**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/81) | Padrões de PR e como rodar projeto nos Microsserviços | 2 | Gabriel Davi | Gabriel Davi |
 | [**#82**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/82) | Roadmap Github | 8 | Grupo EPS | Grupo EPS |
 | [**#83**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/83) | Atualização do Documento de Arquitetura | 5 | Pedro Igor | Pedro Igor |
@@ -17,7 +24,7 @@
 
 
 
-## Pontuação : 44
+## Pontuação : 31
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |
