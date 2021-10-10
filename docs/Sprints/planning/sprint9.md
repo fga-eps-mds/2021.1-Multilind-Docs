@@ -1,7 +1,7 @@
 # Planejamento Sprint 9
 
-**Período: 04/09/2021 a 10/10/2021**<br>
-**Data da Reunião: 04/09/2021**
+**Período: 04/10/2021 a 10/10/2021**<br>
+**Data da Reunião: 04/10/2021**
 
 ## Issues
 
