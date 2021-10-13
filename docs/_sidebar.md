@@ -11,6 +11,7 @@
   * [Análise de Gantt](Project/analiseGantt.md)
   * [Custos do projeto](Project/custos.md)
   * [EVM](Project/evm.md)
+  * [ROI - Retorno do Investimento](Project/roi.md)
 - **Produto**
   * [Lean Inception](LeanInception/intro.md)
   * [MVP](Produto/mvp.md)
