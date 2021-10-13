@@ -22,7 +22,7 @@
 | [**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | 8 | EPS | Gabriel Davi |
 | [**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 5 | MDS | Isadora e Ingrid |
 
-## Pontuação : 55
+## Pontuação : 46
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

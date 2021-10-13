@@ -19,7 +19,7 @@
 | - |[**#149**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/149) | Protótipo da Página Web (Usuários Adm) | 5 | EPS | Sofia Patrocínio | - |
 
 
-## Pontuação : 29 + 16
+## Pontuação : 31 + 16
 ## Dívida Técnica : 13
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
