@@ -15,13 +15,12 @@
 
 
 ## Pontuação : 19 + 16 (Dívidas Técnicas)
-## Dívida Técnica : 27
+## Dívida Técnica : 22
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS | Carlos Rafael e Isadora |
 | [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
 | [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
-| [**#134**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/134) |  ROI - Retorno de Investimento | 5 |EPS | Sofia Patrocínio |
 |[**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS | Sofia Patrocínio |
 
 ## Quadro de Conhecimento (MDS)

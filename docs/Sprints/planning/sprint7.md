@@ -22,10 +22,9 @@
 | [**#131**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/131) | Deploy contínuo dos microsserviços | 5 | EPS | Gabriel Davi |
 | [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
 | [**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS | Sofia Patrocínio |
-| [**#134**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/134) |  ROI - Retorno de Investimento | 5 |EPS | Sofia Patrocínio |
 | [**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | 3 | EPS | Micaella Gouveia |
 
-## Pontuação : 46
+## Pontuação : 41
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

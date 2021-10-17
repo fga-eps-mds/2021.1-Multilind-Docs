@@ -15,7 +15,7 @@
 | [**Mobile #14**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/14) | [**#107**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/107) | US20 Busca por língua | 8 | MDS | Carlos Rafael e Isadora |
 | [**Mobile #15**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/15) | [**#108**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/108) | US21 Busca por Tronco | 5 | MDS | Carlos Rafael e Isadora |
 | [**Docs #151**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/151) | [**#147**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/147) | EVM | 5 | EPS | Micaella Gouveia |
-| [**Content #20**]() | [**#148**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/148) | Refinamento dos Dados | 8 | EPS | Pedro Igor |
+| [**Content #22**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/22) | [**#148**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/148) | Refinamento dos Dados | 8 | EPS | Pedro Igor |
 | - |[**#149**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/149) | Protótipo da Página Web (Usuários Adm) | 5 | EPS | Sofia Patrocínio | - |
 
 
