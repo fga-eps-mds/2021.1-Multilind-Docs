@@ -7,7 +7,7 @@
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
 | [**Mobile #18**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/18) |[**#111**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/111) | US25 Localização do usúario - MAPA | 8 | MDS (+ EPS) |
-| [**#89**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/89) | US01 Cadastro Usuário Administrador | 5 | EPS | Gabriel Davi |
+| [**Admin #1**](https://github.com/fga-eps-mds/2021.1-Multilind-admin-website/pull/1) | [**#89**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/89) | US01 Cadastro Usuário Administrador | 5 | EPS | Gabriel Davi |
 
 ### Pontuação Dívidas Técnicas : 13
 
@@ -19,10 +19,11 @@
 | [**Content #23**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/23) e [**Content #15**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/15) | [**#156**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/156) | Popular base de dados com palavras e imagens | 13 | EPS + MDS |
 | - |[**#157**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/157) | Popular base de dados em deploy | 3 | EPS |
 | [**Mobile #19**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/19) | [**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 5 | MDS |
-| [**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | 8 | EPS |
+|- |[**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | 8 | EPS |
+| [**Mobile #19**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/19)|[**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 3 | MDS |
 
 
-## Pontuação : 39 + 13
+## Pontuação : 37 + 13
 
 ## Quadro de Conhecimento (MDS)
 ![quadro10](../../img/quadroConhecimento/quadro10.png)
@@ -52,4 +53,4 @@
 
 ## Observações
 * Nesta Sprint tivemos a apresentação do MVP, que teve a participação do GT dos grupos indígenas. As principais funcionalidades foram apresentadas, além do protótipo do Web Service para os usuários administradores.
-
+* Foram entregues as primeiras tarefas relacionadas ao épico de Usuário Administrador.
