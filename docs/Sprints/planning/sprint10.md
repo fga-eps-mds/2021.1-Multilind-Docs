@@ -9,9 +9,8 @@
 |--------|-------|-----------|---------------|-------------|
 | [**#111**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/111) | US25 Localização do usúario - MAPA | 8 | MDS (+ EPS) | Helder + Gabriel Davi |
 | [**#89**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/89) | US01 Cadastro Usuário Administrador | 5 | EPS | Gabriel Davi |
-| [**#134**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/134) | ROI - Retorno de Investimento | 8 | EPS | Micaella Gouveia |
 
-### Pontuação Dívidas Técnicas : 21
+### Pontuação Dívidas Técnicas : 13
 
 ## Issues
 | Número | Issue | Pontuação | Participantes | Responsável |
@@ -19,10 +18,11 @@
 | [**#154**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/154) | Apresentação MVP | 5 | EPS + MDS | Sofia Patrocínio |
 | [**#155**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/155) | Refatorações e Cobertura de testes | 5 | MDS | Carlos Rafael e Hérick |
 | [**#156**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/156) | Popular base de dados com palavras e imagens | 13 | EPS + MDS | Todos |
+| [**#157**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/157) | Popular base de dados em deploy | 3 | EPS | Pedro Igor |
 | [**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | 8 | EPS | Gabriel Davi |
-| [**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 5 | MDS | Isadora e Ingrid |
+| [**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 3 | MDS | Isadora e Ingrid |
 
-## Pontuação : 46
+## Pontuação : 36
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |
