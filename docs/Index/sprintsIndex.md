@@ -39,3 +39,6 @@
 - Sprint 12
     - [Planejamento Sprint 12](Sprints/planning/sprint12.md)
     - [Resultados Sprint 12](Sprints/results/sprint12.md)
+- Sprint 13
+    - [Planejamento Sprint 13](Sprints/planning/sprint13.md)
+    - [Resultados Sprint 13](Sprints/results/sprint13.md)
