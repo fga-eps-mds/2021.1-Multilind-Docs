@@ -19,6 +19,7 @@
 | [**#94**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/94) | US06 Adicionar Imagens | 5 | MDS | Isadora, Ingrid e Carlos Rafael |
 | [**#175**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/175) | Atualização Lista de Palavras | 2 | EPS | Pedro Igor |
 | [**#176**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/176) | Apresentação Entrega Final | Sem | EPS + MDS | Todos |
+| [**#178**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/178) | Melhorar Usabilidade | Sem | EPS | Sofia Patrocínio |
 
 
 ## Pontuação : 7
