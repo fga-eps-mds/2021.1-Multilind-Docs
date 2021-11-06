@@ -7,14 +7,14 @@
 ## Issues
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
-| [**#162**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/162) |Tratamento de Dados Funai | 13 | EPS| Pedro Igor |
+| [**#162**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/162) |Tratamento de Dados Funai | Sem | EPS| Pedro Igor |
 | [**#90**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/90) | US02 Avaliação de conteúdos Parte 1 | 8 | MDS | Carlos Rafael e Helder |
-| [**#163**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/163) | Refatoração: Deixar dicionário em Pt, páginação | 8 | MDS | Hérick e Isadora |
-| [**#164**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/164) | Tela de uma imagem | 5 |MDS | Ingrid |
-| [**#165**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/165) | Protótipo Alta Fidelidade Admin Web | 5 | EPS | Sofia Patrocínio |
-| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | 8 | EPS | Micaella Gouveia e Gabriel Davi |
+| [**#163**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/163) | Refatoração: Deixar dicionário em Pt, páginação | Sem | MDS | Hérick e Isadora |
+| [**#164**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/164) | Tela de uma imagem | Sem |MDS | Ingrid |
+| [**#165**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/165) | Protótipo Alta Fidelidade Admin Web | Sem | EPS | Sofia Patrocínio |
+| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | Sem | EPS | Micaella Gouveia e Gabriel Davi |
 
-## Pontuação : 47
+## Pontuação : 8
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

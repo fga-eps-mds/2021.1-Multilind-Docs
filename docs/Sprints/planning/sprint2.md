@@ -7,15 +7,15 @@
 
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------| - |
-| [**#31**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/31) | Apresentação MVP para PO | 8 | Todos | Sofia Patrocínio |
-| [**#32**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/32) | Questionário para Usuário | 5 | Todos | Gabriel Davi |
-| [**#33**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/33) | Ideias de Nome para o aplicativo | 3 | Todos | - |
-| [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/34) | Elicitação de Requisitos e Priorização | 8 | Todos | Pedro Igor |
-| [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Histórias de Usuário | 13 | Todos | Micaella Gouveia |
-| [**#43**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/43) | Protótipo de Baixa Fidelidade | 13 | MDS | MDS |
+| [**#31**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/31) | Apresentação MVP para PO | Sem | Todos | Sofia Patrocínio |
+| [**#32**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/32) | Questionário para Usuário | Sem | Todos | Gabriel Davi |
+| [**#33**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/33) | Ideias de Nome para o aplicativo | Sem | Todos | - |
+| [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/34) | Elicitação de Requisitos e Priorização | Sem | Todos | Pedro Igor |
+| [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Histórias de Usuário | Sem | Todos | Micaella Gouveia |
+| [**#43**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/43) | Protótipo de Baixa Fidelidade | Sem | MDS | MDS |
 
 
-## Pontuação : 50
+## Pontuação : Sem
 
 ## Relato
 * Ficou definida uma apresentação de tudo o que foi construído na Lean para nossos POs.

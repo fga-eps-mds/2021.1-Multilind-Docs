@@ -12,12 +12,12 @@
 | [**#111**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/111) | US25 Localização do usúario - MAPA | 8 | MDS (+ EPS) | Helder + Gabriel Davi |
 | [**#107**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/107) | US20 Busca por língua | 8 | MDS | Carlos Rafael e Isadora |
 | [**#89**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/89) | US01 Cadastro Usuário Administrador | 5 | EPS | Gabriel Davi |
-| [**#147**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/147) | EVM | 5 | EPS | Micaella Gouveia |
-| [**#148**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/148) | Refinamento dos Dados | 8 | EPS | Pedro Igor |
-| [**#149**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/149) | Protótipo da Página Web (Usuários Adm)| 5 | EPS | Sofia Patrocínio |
+| [**#147**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/147) | EVM | Sem | EPS | Micaella Gouveia |
+| [**#148**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/148) | Refinamento dos Dados | Sem | EPS | Pedro Igor |
+| [**#149**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/149) | Protótipo da Página Web (Usuários Adm)| Sem | EPS | Sofia Patrocínio |
 
 
-## Pontuação : 55
+## Pontuação : 37
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

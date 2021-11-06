@@ -6,18 +6,18 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| [**Files #16**](https://github.com/fga-eps-mds/2021.1-Multilind-files-server/pull/16) <br>[**Content #26**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/26)|[**#162**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/162) |Tratamento de Dados Funai | 13 | EPS| Pedro Igor |
-| [**Mobile #21**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/21)<br>[**Mobile #22**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/22)|[**#164**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/164) | Tela de uma imagem | 5 |MDS | Ingrid |
-| - |[**#165**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/165) | Protótipo Alta Fidelidade Admin Web | 5 | EPS | Sofia Patrocínio |
+| [**Files #16**](https://github.com/fga-eps-mds/2021.1-Multilind-files-server/pull/16) <br>[**Content #26**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/26)|[**#162**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/162) |Tratamento de Dados Funai | Sem | EPS| Pedro Igor |
+| [**Mobile #21**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/21)<br>[**Mobile #22**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/22)|[**#164**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/164) | Tela de uma imagem | Sem |MDS | Ingrid |
+| - |[**#165**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/165) | Protótipo Alta Fidelidade Admin Web | Sem | EPS | Sofia Patrocínio |
 
-## Pontuação : 23
+## Pontuação : 0
 
-## Dívidas Técnicas: 24
+## Dívidas Técnicas: 8
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#90**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/90) | US02 Avaliação de conteúdos Parte 1 | 8 | MDS | Carlos Rafael e Helder |
-| [**#163**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/163) | Refatoração: Deixar dicionário em Pt, páginação | 8 | MDS | Hérick e Isadora |
-| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | 8 | EPS | Micaella Gouveia e Gabriel Davi |
+| [**#163**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/163) | Refatoração: Deixar dicionário em Pt, páginação | Sem | MDS | Hérick e Isadora |
+| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | Sem | EPS | Micaella Gouveia e Gabriel Davi |
 
 
 ## Quadro de Conhecimento (MDS)

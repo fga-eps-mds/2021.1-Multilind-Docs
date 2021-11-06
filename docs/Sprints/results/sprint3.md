@@ -6,15 +6,14 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| [**72**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/72) |[**#47**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/47) | Protótipo de Média Fidelidade | 13 | MDS |
-| [**#58**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/58)|[**#48**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/48) | Representação Arquitetural | 3 | MDS |
-| [**#62**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/62)|[**#49**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/49) | Visão Lógica do Projeto | 3 | Pedro Igor |
-| [**#59**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/59)|[**#50**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/50) | Diagramas de Contexto | 5 | Gabriel Davi |
-| [**#55**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/55)|[**#51**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/51) | Requisitos e Restrições de Arquitetural | 3 | Micaella Gouveia |
-| [**#56**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/56)|[**#52**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/52) | Análise de Gantt | 8 | Sofia Patrocínio e Micaella Gouveia |
-| [**#60**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/53)|[**#60**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/53) | Entrevistas Acampamento Luta pela Vida | 5 | Sofia Patrocínio |
+| [**72**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/72) |[**#47**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/47) | Protótipo de Média Fidelidade | Sem | MDS |
+| [**#58**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/58)|[**#48**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/48) | Representação Arquitetural | Sem | MDS |
+| [**#62**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/62)|[**#49**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/49) | Visão Lógica do Projeto | Sem | Pedro Igor |
+| [**#59**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/59)|[**#50**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/50) | Diagramas de Contexto | Sem | Gabriel Davi |
+| [**#55**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/55)|[**#51**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/51) | Requisitos e Restrições de Arquitetural | Sem | Micaella Gouveia |
+| [**#56**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/56)|[**#52**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/52) | Análise de Gantt | Sem | Sofia Patrocínio e Micaella Gouveia |
+| [**#60**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/53)|[**#60**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/53) | Entrevistas Acampamento Luta pela Vida | Sem | Sofia Patrocínio |
 
-## Pontuação : 40
 
 ## Quadro de Conhecimento (MDS)
 ![quadro3](../../img/quadroConhecimento/quadro3.png)
@@ -23,11 +22,10 @@
 ![quadro3](../../img/quadroConhecimento/Equadro3.png)
 
 ## Burndown
-![burn3](../../img/burndown/burndown3.png)
+*Como essa sprint não foi pontuada, não há burndown.*
 
 ## Velocity
-![velocity3](../../img/velocity/velocity3.png)
-*Como as novas issues foram criadas antes da análise, ficou incoerente*
+*Como essa sprint não foi pontuada, não há velocity.*
 
 ## Health Check
 ![health3](../../img/healthCheck/health3.png)
@@ -41,9 +39,8 @@
 ## Burndown de Riscos
 ![riscos3](../../img/riscos/riscos3.png)
 
-* Entregas muito apertadas geraram burndown e velocity ruins.
 * Ainda existem dúvidas sobre a viabilidade do escopo e sua priorização.
 
 
 ## Observações
-- Nesta Sprint muitas entregas ficaram para última hora, gerando um burndown e velocity indesejáveis.
+- Nesta Sprint muitas entregas ficaram para última hora.
