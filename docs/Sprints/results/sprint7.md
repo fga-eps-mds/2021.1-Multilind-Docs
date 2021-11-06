@@ -9,19 +9,19 @@
 | [**Content #4**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/4/) | [**#99**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/99) | US12 Associação de palavras | 8 | MDS |
 | [**Mobile #7**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/7) | [**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas Parte 1 | 8 | MDS |
 | [**Mobile #8**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/8) |[**#100**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/100) | US13 Listagem de línguas Parte 2| 3 | MDS |
-| [**Files #4**](https://github.com/fga-eps-mds/2021.1-Multilind-files-server/pull/4)|[**#130**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/130) | Configuração Inicial do Banco Storage Firebase | 8 | MDS (+ EPS) |
-| - |[**#131**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/131) | Deploy contínuo dos microsserviços | 5 | EPS|
-| [**Docs #137**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/137)|[**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | 3 | EPS |
+| [**Files #4**](https://github.com/fga-eps-mds/2021.1-Multilind-files-server/pull/4)|[**#130**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/130) | Configuração Inicial do Banco Storage Firebase | Sem | MDS (+ EPS) |
+| - |[**#131**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/131) | Deploy contínuo dos microsserviços | Sem | EPS|
+| [**Docs #137**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/137)|[**#135**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/135) | Atualizações de Escopo | Sem | EPS |
 
 
-## Pontuação : 19 + 16 (Dívidas Técnicas)
-## Dívida Técnica : 22
+## Pontuação : 3 + 16 (Dívidas Técnicas)
+## Dívida Técnica : 16
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS | Carlos Rafael e Isadora |
 | [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
-| [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
-|[**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS | Sofia Patrocínio |
+| [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | Sem | EPS | Gabriel Davi |
+|[**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | Sem | EPS | Sofia Patrocínio |
 
 ## Quadro de Conhecimento (MDS)
 ![quadro7](../../img/quadroConhecimento/quadro7.png)

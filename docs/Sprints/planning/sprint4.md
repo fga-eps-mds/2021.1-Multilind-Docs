@@ -7,18 +7,18 @@
 
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
-| [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/5) | Como contribuir, licença, código de conduta | 3 | Pedro Igor | Pedro Igor |
-| [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Priorização | 5 | EPS | Micaella Gouveia |
-| [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) |Histórias de Usuário | 13 | MDS | Micaella Gouveia |
-| [**#57**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/57) | Análise de Riscos | 5 | EPS | Micaella Gouveia |
-| [**#63**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/63) | Manual de Identidade Visual | 5 | Sofia Patrocínio | Sofia Patrocínio |
-| [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | 8 | Sofia Patrocínio | Sofia Patrocínio |
-| [**#65**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/65) | Modelagem do Banco de Dados | 8 | Pedro Igor | Pedro Igor |
-| [**#66**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/66) | Criação dos Repositórios e Dockerização | 8 | Gabriel Davi | Gabriel Davi |
-| [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | 5 | EPS (+ MDS) | EPS |
+| [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/5) | Como contribuir, licença, código de conduta | Sem | Pedro Igor | Pedro Igor |
+| [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Priorização | Sem | EPS | Micaella Gouveia |
+| [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) |Histórias de Usuário | Sem | MDS | Micaella Gouveia |
+| [**#57**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/57) | Análise de Riscos | Sem | EPS | Micaella Gouveia |
+| [**#63**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/63) | Manual de Identidade Visual | Sem | Sofia Patrocínio | Sofia Patrocínio |
+| [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | Sem | Sofia Patrocínio | Sofia Patrocínio |
+| [**#65**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/65) | Modelagem do Banco de Dados | Sem | Pedro Igor | Pedro Igor |
+| [**#66**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/66) | Criação dos Repositórios e Dockerização | Sem | Gabriel Davi | Gabriel Davi |
+| [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | Sem | EPS (+ MDS) | EPS |
 
 
-## Pontuação : 60
+## Pontuação : Sem
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |
