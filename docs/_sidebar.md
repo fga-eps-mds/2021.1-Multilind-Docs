@@ -5,6 +5,7 @@
   * [Plano de Metodologia](Project/planoMetodologia.md)
   * [Plano de Comunicação](Project/planoComunicacao.md)
   * [Plano de Métricas](Project/planoMetricas.md)
+  * [Plano de Qualidade](Project/planoQualidade.md)
   * [Documento de Arquitetura](Project/docArquitetura.md)
   * [Modelagem do Banco de Dados](Project/modelagemBancoDeDados.md)
   * [Plano de Análise de Riscos](Project/analiseRiscos.md)
