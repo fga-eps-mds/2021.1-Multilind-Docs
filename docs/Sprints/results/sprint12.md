@@ -1,4 +1,4 @@
-# Resultados Sprint 12
+# Resultados Sprint 8
 
 **Período: 25/10/2021 a 31/10/2021**<br>
 **Data da Reunião: 30/10/2021**
@@ -47,7 +47,7 @@
 ![retro12](../../img/retrospective/retro12.png)
 
 ## Burndown de Riscos
-![riscos12](../../img/riscos/riscos11.png)
+![riscos12](../../img/riscos/riscos12.png)
 * Com o final do semestre, muitos membros estão sobrecarregados com outras matérias, gerando dívidas técnicas e muito cansaço.
 * A comunicação com as clientes e o professor nesta reta final está cansativa.
 * A falha de comunicação entre os membros essa semana deixou a renião com os clientes desorganizada.

@@ -1,4 +1,4 @@
-# Resultados Sprint 4
+# Resultados Sprint 0
 
 **Período: 30/08/2021 a 05/09/2021**<br>
 **Data da Reunião: 04/09/2021**

@@ -1,4 +1,4 @@
-# Planejamento Sprint 11
+# Planejamento Sprint 7
 
 **Período: 18/10/2021 a 24/10/2021**<br>
 **Data da Reunião: 16/10/2021**
