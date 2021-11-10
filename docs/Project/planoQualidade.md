@@ -60,7 +60,7 @@ Melhorias em relação a versão 1.1:
 - Tratamento de erros em línguas que não possuem determinada informação
 - Adição de loading enquanto dados são carregados
 
-### APK Versão 1.3 (08/11)
+### [APK Versão 1.3 (08/11)](https://expo.dev/artifacts/9c23b8ae-82a6-42e4-a75e-71c6dd6e6bcc)
 Funcionalidades presentes:
 - Visualizar línguas através do mapa
 - Ver detalhes de uma língua ao clicar em um ponto no mapa
@@ -74,6 +74,23 @@ Melhorias em relação a versão 1.2:
 - Mostrar línguas em ordem alfabética por padrão
 - Ajuste de tamanho dos pontos do mapa
 - Ajuste no botão de visualizar imagem na tela de palavra específica
+
+### [APK Versão 1.4 (11/11)](https://expo.dev/artifacts/88a047fd-6a94-4214-ae0e-171bb3b1a6a7)
+Funcionalidades presentes:
+- Visualizar línguas através do mapa
+- Ver detalhes de uma língua ao clicar em um ponto no mapa
+- Visualizar línguas por ordem alfabética
+- Visualizar línguas por família linguística
+- Ver dicionário de palavras de uma lingua específica
+- Ver tradução de uma palavra para o português formal
+- Visualizar imagens relativas às palavras uma língua
+
+Melhorias em relação a versão 1.3:
+* Possibilidade de busca de palavra no português e língua indígena
+* Remoção do campo de busca no mapa (versão anterior quebrava ao tentar buscar algo)
+* Adição de paddingBottom na lista de línguas e palavras para mostrar todas línguas
+* Adição de informações sobre a língua na tela de língua específica: nome(s) alternativos, família linguística e etnia (os dois últimos tinham sido implementados pela Ingrid e Isa, mas foi perdido em um PR)
+* Correção da chamada de ordenação de nome das línguas, na versão anterior não era possível ordenar por ordem alfabética decrescente
 
 Além disso, através do Jupyter Notebook, foi realizada a interpretação das métricas fornecidas pela ferramenta SonarQube levando em conta fatores de qualidade como Manutenibilidade e Confiabilidade e suas subcaracterísticas nos diferentes repositórios utilizados no projeto.
 
