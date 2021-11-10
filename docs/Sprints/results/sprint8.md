@@ -7,15 +7,15 @@
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
 | [**Content #14**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/14) [**Mobile #11**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/11) | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS |
-| - | [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS |
-| [**Docs #143**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/143) | [**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | 3 | EPS |
-| [**Content #17**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/17) | [**#139**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/139) | Tratamento de Dados | 13 | EPS |
+| - | [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | Sem | EPS |
+| [**Docs #143**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/143) | [**#133**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/133) | Canvas PBB | Sem | EPS |
+| [**Content #17**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/17) | [**#139**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/139) | Tratamento de Dados | Sem | EPS |
 | - | [**#140**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/140) | **BUFGIX** - Arrumar datas do RoadMap | Sem | EPS |
 | [**Docs #144**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/144) | [**#141**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/140) | **BUFGIX** - Atualização protótipo e conserto backlog | Sem | EPS |
 | [**Mobile #13**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/13) | [**#105**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/105) | US18 Apresentação de imagens por palavras | 8 | MDS |
 
 
-## Pontuação : 34
+## Pontuação : 16
 ## Dívida Técnica : 24
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|

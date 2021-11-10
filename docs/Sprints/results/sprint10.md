@@ -14,16 +14,16 @@
 ## Issues Entregues
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
-| - | [**#154**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/154) | Apresentação MVP | 5 | EPS + MDS |
-| [**Mobile #17**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/17) e [**Content #22**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/22) | [**#155**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/155) | Refatorações e Cobertura de testes | 5 | MDS |
-| [**Content #23**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/23) e [**Content #15**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/15) | [**#156**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/156) | Popular base de dados com palavras e imagens | 13 | EPS + MDS |
-| - |[**#157**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/157) | Popular base de dados em deploy | 3 | EPS |
+| - | [**#154**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/154) | Apresentação MVP | Sem | EPS + MDS |
+| [**Mobile #17**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/17) e [**Content #22**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/22) | [**#155**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/155) | Refatorações e Cobertura de testes | Sem | MDS |
+| [**Content #23**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/23) e [**Content #15**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/15) | [**#156**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/156) | Popular base de dados com palavras e imagens | Sem | EPS + MDS |
+| - |[**#157**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/157) | Popular base de dados em deploy | Sem | EPS |
 | [**Mobile #19**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/19) | [**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 5 | MDS |
-|- |[**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | 8 | EPS |
+|- |[**#158**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/158) | Criação do Web Service | Sem | EPS |
 | [**Mobile #19**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/19)|[**#109**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/109) | US22 Busca por palavras | 3 | MDS |
 
 
-## Pontuação : 37 + 13
+## Pontuação : 8 + 13 (Dívidas Técnicas)
 
 ## Quadro de Conhecimento (MDS)
 ![quadro10](../../img/quadroConhecimento/quadro10.png)

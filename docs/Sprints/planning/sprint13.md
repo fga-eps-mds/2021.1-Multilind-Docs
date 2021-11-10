@@ -8,21 +8,21 @@
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#90**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/90) | US02 Avaliação de conteúdos Parte 2 | 8 | MDS | Helder e Hérick |
-| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | 8 | EPS | Todos |
-| [**#169**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/169) | Página Sobre | 3 | MDS | Carlos Rafael |
+| [**#166**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/166) | Métricas Sonar Cloud | Sem | EPS | Todos |
+| [**#169**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/169) | Página Sobre | Sem | MDS | Carlos Rafael |
 
-### Pontuação Dívida Técnica: 19
+### Pontuação Dívida Técnica: 8
 
 ## Issues
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#94**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/94) | US06 Adicionar Imagens | 5 | MDS | Isadora, Ingrid e Carlos Rafael |
-| [**#175**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/175) | Atualização Lista de Palavras | 2 | EPS | Pedro Igor |
+| [**#175**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/175) | Atualização Lista de Palavras | Sem | EPS | Pedro Igor |
 | [**#176**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/176) | Apresentação Entrega Final | Sem | EPS + MDS | Todos |
 | [**#178**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/178) | Melhorar Usabilidade | Sem | EPS | Sofia Patrocínio |
 
 
-## Pontuação : 7
+## Pontuação : 5
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

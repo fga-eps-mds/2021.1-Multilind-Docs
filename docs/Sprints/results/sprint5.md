@@ -6,20 +6,20 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| [**70**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/70) | [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/5) | Como contribuir, licença, código de conduta | 3 | Pedro Igor |
-| - | [**#81**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/81) | Padrões de PR e como rodar projeto nos Microsserviços | 2 | Gabriel Davi |
-| -|[**#82**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/82) | Roadmap Github | 8 | Grupo EPS | Grupo EPS |
-| [**119**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/119) | [**#83**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/83) | Atualização do Documento de Arquitetura | 5 | Pedro Igor |
+| [**70**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/70) | [**#5**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/5) | Como contribuir, licença, código de conduta | Sem | Pedro Igor |
+| - | [**#81**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/81) | Padrões de PR e como rodar projeto nos Microsserviços | Sem | Gabriel Davi |
+| -|[**#82**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/82) | Roadmap Github | Sem | Grupo EPS | Grupo EPS |
+| [**119**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/pull/119) | [**#83**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/83) | Atualização do Documento de Arquitetura | Sem | Pedro Igor |
 | [**Mobile #4**](https://github.com/fga-eps-mds/2021.1-Multilind-Mobile-App/pull/4) |[**#84**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/84) | US24 Localização no Mapa (Parte 1) | 8 | Grupo MDS ( + Gabriel Davi) | Isadora e Ingrid ( + Gabriel Davi) |
 | [**Content #1**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/1) [**Content #2**](https://github.com/fga-eps-mds/2021.1-Multilind-content-server/pull/2)| [**#85**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/82) | US11 Cadastro de Etnia (Parte 1) | 8 | Grupo MDS | Carlos Rafael, Helder e Hérick |
 
-## Pontuação : 31
+## Pontuação : 16
 
-## Dívida Técnica : 13
+## Issues Não Entregues
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
-| [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | 8 | Sofia Patrocínio e Micaella Gouveia | Sofia Patrocínio e Micaella Gouveia |
-| [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | 5 | EPS (+ MDS) | EPS |
+| [**#64**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/64) | Protótipo de Alta Fidelidade | Sem | Sofia Patrocínio e Micaella Gouveia | Sofia Patrocínio e Micaella Gouveia |
+| [**#67**](https://github.com/fga-eps-mds/2021.1-Indigenas-Docs/issues/67) | Análise de Custos | Sem | EPS (+ MDS) | EPS |
 
 ## Quadro de Conhecimento (MDS)
 ![quadro5](../../img/quadroConhecimento/quadro5.png)

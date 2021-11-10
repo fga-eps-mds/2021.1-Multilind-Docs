@@ -9,20 +9,20 @@
 |--------|-------|-----------|---------------|-------------|
 | [**#101**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/101) | US14 Listagem de línguas por troncos linguísticos | 8 | MDS | Carlos Rafael e Isadora |
 | [**#104**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/104) | US17 Listagem de palavras por línguas | 8 | MDS | Hérick e Ingrid |
-| [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | 3 | EPS | Gabriel Davi |
+| [**#132**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/132) | Ajustar coleta de métricas do SonarCloud | Sem | EPS | Gabriel Davi |
 
-### Pontuação Dívidas Técnicas: 19
+### Pontuação Dívidas Técnicas: 16
 ## Issues
 | Número | Issue | Pontuação | Participantes | Responsável |
 |--------|-------|-----------|---------------|-------------|
 | [**#103**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/103) | US16 Listagem de etnias por língua | 8 | MDS | Hérick e Ingrid |
 | [**#105**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/105) | US18 Apresentação de imagens por palavras | 8 | MDS | Carlos Rafael e Isadora |
 | [**#111**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/111) | US25 Localização do usúario - MAPA | 8 | MDS (+ EPS) | Helder + Gabriel Davi |
-| [**#139**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/139) | Tratamento de Dados | 13 | EPS | Micaella Gouveia e Pedro Igor |
+| [**#139**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/139) | Tratamento de Dados | Sem | EPS | Micaella Gouveia e Pedro Igor |
 | [**#140**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/140) | **BUFGIX** - Arrumar datas do RoadMap | Sem | Micaella Gouveia | Micaella Gouveia |
 | [**#141**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/140) | **BUFGIX** - Atualização protótipo e conserto backlog | Sem | Sofia Patrocínio | Sofia Patrocínio |
 
-## Pontuação : 37
+## Pontuação : 24
 
 ## Pareamento de Papéis (EPS)
 | Dupla | Papéis |

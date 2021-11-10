@@ -6,22 +6,18 @@
 ## Issues Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| [**#45**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/45) |[**#31**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/31) | Apresentação MVP para PO | 8 | Todos |
-| - |[**#33**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/33) | Ideias de Nome para o aplicativo | 3 | Todos |
-| [**#44**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/44) |[**#43**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/43) | Protótipo de Baixa Fidelidade | 13 | MDS |
-
-## Pontuação : 24
+| [**#45**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/45) | [**#31**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/31) | Apresentação MVP para PO | Sem | Todos |
+| - | [**#33**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/33) | Ideias de Nome para o aplicativo | Sem | Todos |
+| [**#44**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/pull/44) | [**#43**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/43) | Protótipo de Baixa Fidelidade | Sem | MDS |
 
 ## Issues Não Entregues
 | PR | Issue | Descrição | Pontuação | Participantes |
 |----|-------|-----------|-----------|---------------|
-| - |[**#32**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/32) | Questionário para Usuário | 5 | Todos |
-| - |[**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/34) | Elicitação de Requisitos e Priorização | 8 | Todos |
-| - |[**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Histórias de Usuário | 13 | Todos |
+| - | [**#32**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/32) | Questionário para Usuário | Sem | Todos |
+| - | [**#34**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/34) | Elicitação de Requisitos e Priorização | Sem | Todos |
+| - | [**#35**](https://github.com/fga-eps-mds/2021.1-Linguas-Indigenas-Docs/issues/35) | Histórias de Usuário | Sem | Todos |
 
 As issues não entregues foram para a sprint Backlog, pois não obtivemos a validação do MVP com as clientes.
-
-## Dívidas Técnicas: 26
 
 ## Quadro de Conhecimento (MDS)
 ![quadro2](../../img/quadroConhecimento/quadro2.png)
@@ -30,10 +26,10 @@ As issues não entregues foram para a sprint Backlog, pois não obtivemos a vali
 ![quadro2](../../img/quadroConhecimento/Equadro2.png)
 
 ## Burndown
-![burn2](../../img/burndown/burndown2.png)
+*Como essa sprint não foi pontuada, não há burndown.*
 
 ## Velocity
-*Como essa sprint foi a primeira pontuada, não há velocity.*
+*Como essa sprint não foi pontuada, não há velocity.*
 
 ## Health Check
 ![health2](../../img/healthCheck/health2.png)

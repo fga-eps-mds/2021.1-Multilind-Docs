@@ -6,6 +6,7 @@
 | 27/08/2021 | 1.0 | Criação do documento | Grupo EPS |
 | 28/08/2021 | 1.1 | Elicitação dos riscos, probabilidades, impactos e ações | Grupo EPS e MDS |
 | 30/08/2021 | 1.2 | Adição da tabela de riscos e análise | Micaella Gouveia |
+| 06/11/2021 | 1.3 | Adição da análise de riscos do projeto | Micaella Gouveia |
 
 ## Introdução
 
@@ -14,6 +15,13 @@ O objetivo deste documento é explicitar como aconteceu o plano de análise de r
 ## Estrutura Análitica de Riscos
 
 ![Estutura Análitica de riscos](../assets/riscos/riscos.png)
+
+## Análise dos Riscos
+Durante o projeto os riscos abaixo foram levantados. Os riscos que tinham maior impacto e probabilidade foram analisados a cada sprint, gerando o seguinte gráfico. Conforme um risco aumentava sua probabilidade de acontecer, as medidas planejadas abaixo eram tomadas a fim de mitigar esses riscos.
+
+Essas análises podem ser vistas nos resultados obtidos a cada Sprint.
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR67kZ4sab9LyMy9ZVnf6dhddW1yl5sKhqpLo9IYfCanpg4hEo8Fy-htTKPPBz3LA/pubhtml" width="900px" height="600px"></iframe>
 
 ### Descrição dos Itens da Estrutura analítica de Risco
 
