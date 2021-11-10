@@ -1,8 +1,7 @@
-# Planejamento Sprint 12
+# Planejamento Sprint 9
 
 **Período: 01/11/2021 a 08/11/2021**<br>
 **Data da Reunião: 30/10/2021**
-
 
 ## Issues Dívidas Técnicas
 | Número | Issue | Pontuação | Participantes | Responsável |
@@ -20,7 +19,6 @@
 | [**#175**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/175) | Atualização Lista de Palavras | Sem | EPS | Pedro Igor |
 | [**#176**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/176) | Apresentação Entrega Final | Sem | EPS + MDS | Todos |
 | [**#178**](https://github.com/fga-eps-mds/2021.1-Multilind-Docs/issues/178) | Melhorar Usabilidade | Sem | EPS | Sofia Patrocínio |
-
 
 ## Pontuação : 5
 
@@ -43,5 +41,3 @@
 * O foco maior será no Épico de Usuário Administrador
 * Combinamos com as clientes de gerar o apk mais atualizado para que o feedback possa ser realizado em sua completude.
 * Nesta reta final iremos analisar as métricas do sonar cloud e tentar pegar a maior quantidade de dados disponibilizadas para popular o banco de dados.
-
-
