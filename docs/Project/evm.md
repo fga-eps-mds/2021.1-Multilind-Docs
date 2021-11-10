@@ -18,6 +18,8 @@ Para melhor entender o funcionamento do EVM, foi utilizado o artigo [*AgileEVM �
 
 Para o monitoramento foram consideradas as sprints de desenvolvimento, que começaram na Sprint 4, totalizando 3 meses de desenvolvimento do projeto. As análises de custos iniciais foram feitas anteriormente em [**Custos do Projeto**](Project/custos.md).
 
+Para ter acesso à tabela acesse: <https://docs.google.com/spreadsheets/d/1P89oqyn-_ZQ_iSmIdaKfGAEleatwDHU4qivzgmVkuO8/edit?usp=sharing>.
+
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQLyduqI-13LR_8Mrl7f4B3EwyqbJUiTDZV0blZ9_96dupWKqRyj4xOV6nMPeqMaDnNQVGLXQbGndVW/pubhtml" width="900px" height="600px"></iframe>
 
 
