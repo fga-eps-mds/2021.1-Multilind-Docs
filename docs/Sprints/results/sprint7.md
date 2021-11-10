@@ -1,4 +1,4 @@
-# Resultados Sprint 7
+# Resultados Sprint 3
 
 **Período: 20/09/2021 a 26/09/2021**<br>
 **Data da Reunião: 25/09/2021**

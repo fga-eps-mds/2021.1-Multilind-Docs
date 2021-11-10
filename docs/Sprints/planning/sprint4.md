@@ -1,4 +1,4 @@
-# Planejamento Sprint 4
+# Planejamento Sprint 0
 
 **Período: 30/08/2021 a 06/08/2021**<br>
 **Data da Reunião: 30/08/2021**
@@ -50,4 +50,4 @@
 * No dia 30/08/2021 teremos uma reunião com as clientes para validação do protótipo de Média fidelidade, além da decisão do nome da aplicação, possibilitando a criação do manual de identidade visual e o protótipo de alta fidelidade.
 * Com a validação das clientes sobre a priorização da feature de Usuários Admins, podemos começar o backlog, faltando apenas a sua priorização e tirar algumas issues que estavam em backlog.
 * Iniciaremos as documentação das US feita pelos MDS
-* Essa será a última sprint antes da entrega da R1, então alinharemos todos os detalhes para essa entrega. Para que não haja atrasos nas entregas, criamos datas das entregas de cada issue.
+* Essa será a sprint antes da entrega da R1, então alinharemos todos os detalhes para essa entrega. Para que não haja atrasos nas entregas, criamos datas das entregas de cada issue.

@@ -1,4 +1,4 @@
-# Planejamento Sprint 12
+# Planejamento Sprint 8
 
 **Período: 25/10/2021 a 31/10/2021**<br>
 **Data da Reunião: 25/10/2021**
